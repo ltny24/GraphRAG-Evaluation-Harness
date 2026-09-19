@@ -11,3 +11,7 @@ certifi>=2024.2.2
 # Vector Search (Milestone 2)
 sentence-transformers>=3.0.0
 qdrant-client>=1.8.0
+
+# Evaluation & Metrics (Milestone 3)
+pandas>=2.0.0
+matplotlib>=3.7.0

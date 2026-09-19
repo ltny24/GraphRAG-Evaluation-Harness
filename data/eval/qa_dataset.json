@@ -1,0 +1,40 @@
+[
+    {
+        "id": "q_1",
+        "type": "1-hop",
+        "question": "Which oral multi-kinase inhibitor targeting angiogenic, stromal, and oncogenic receptor tyrosine kinases is indicated for the treatment of patients with refractory metastatic colorectal cancer?",
+        "ground_truth": "Regorafenib",
+        "required_edges": [
+            "(regorafenib)-[TREATS]->(colorectal cancer)"
+        ]
+    },
+    {
+        "id": "q_2",
+        "type": "1-hop",
+        "question": "Which oral multi-kinase inhibitor is indicated as a second-line targeted therapy for patients with hepatocellular carcinoma who have previously been treated with sorafenib?",
+        "ground_truth": "Regorafenib",
+        "required_edges": [
+            "(regorafenib)-[TREATS]->(hepatocellular carcinoma)"
+        ]
+    },
+    {
+        "id": "q_3",
+        "type": "2-hop",
+        "question": "Which cytochrome P450 enzyme is responsible for metabolizing regorafenib, and which statin medication interacts with regorafenib?",
+        "ground_truth": "CYP3A4 metabolizes regorafenib, and regorafenib interacts with atorvastatin.",
+        "required_edges": [
+            "(CYP3A4)-[METABOLIZES]->(regorafenib)",
+            "(regorafenib)-[INTERACTS_WITH]->(atorvastatin)"
+        ]
+    },
+    {
+        "id": "q_4",
+        "type": "2-hop",
+        "question": "Which enzyme is responsible for metabolizing regorafenib, an agent used in the treatment of colorectal cancer?",
+        "ground_truth": "CYP3A4",
+        "required_edges": [
+            "(CYP3A4)-[METABOLIZES]->(regorafenib)",
+            "(regorafenib)-[TREATS]->(colorectal cancer)"
+        ]
+    }
+]

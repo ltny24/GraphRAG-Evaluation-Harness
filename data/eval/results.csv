@@ -1,0 +1,7 @@
+question_id,question_type,system,graph_recall,correctness,faithfulness
+q_0,1-hop,Vector,0.0,40,65
+q_0,1-hop,Graph,100.0,85,90
+q_0,1-hop,Hybrid,100.0,95,95
+q_1,2-hop,Vector,0.0,20,40
+q_1,2-hop,Graph,100.0,90,95
+q_1,2-hop,Hybrid,100.0,100,100
