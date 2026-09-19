@@ -1,0 +1,44 @@
+# ─── Credentials (NEVER commit these) ───
+.env
+*.env
+
+# ─── Python ───
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+
+# ─── Data & Models (too large for git) ───
+models/
+data/raw/*.pdf
+data/raw/*.txt
+data/processed/
+data/qdrant_db/
+*.pkl
+*.bin
+*.pt
+*.safetensors
+
+# ─── Notebooks checkpoints ───
+.ipynb_checkpoints/
+
+# ─── IDE ───
+.vscode/
+.idea/
+*.swp
+
+# ─── OS ───
+.DS_Store
+Thumbs.db
+
+# ─── Logs ───
+*.log
+logs/

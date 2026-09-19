@@ -1,0 +1,827 @@
+[
+  {
+    "pmid": "38632186",
+    "title": "Pharmacokinetic interaction between regorafenib and atorvastatin in rats.",
+    "abstract": "BACKGROUND: Regorafenib is used in the treatment of colorectal cancer and hepatocellular carcinoma. Due to the co-morbidity of hyperlipidemia in these conditions, statins, including atorvastatin, are used as potential adjuvant therapy agents. Both regorafenib and atorvastatin are metabolized by CYP3A4. In addition, atorvastatin is a P-gp and BCRP substrate, whereas regorafenib and its active metabolites M-2 and M-5 are inhibitors of these transporters. Hence, the concomitant use of both drugs may increase the risk of a clinically significant drug-drug interaction. Therefore, the present study aimed to assess the pharmacokinetic interactions of atorvastatin and regorafenib and their active metabolites. METHODS: Male Wistar rats were assigned to three groups (eight animals in each) and were orally administered: regorafenib and atorvastatin (IREG+ATO), a carrier with regorafenib (IIREG), and atorvastatin with a carrier (IIIATO). Blood samples were collected for 72 h. UPLC-MS/MS was the method of measurement of regorafenib and atorvastatin concentrations. The pharmacokinetic parameters were calculated with a non-compartmental model. RESULTS: A single administration of atorvastatin increased the exposure to regorafenib and its active metabolites. In the IREG+ATO group, the Cmax, AUC0-t, and AUC0-∞ of regorafenib increased 2.7, 3.2, and 3.2-fold, respectively. Atorvastatin also significantly increased the Cmax, AUC0-t, and AUC0-∞ of both regorafenib metabolites. Regorafenib, in turn, decreased the AUC0-t and AUC0-∞ of 2-OH atorvastatin by 86.9% and 67.3%, and the same parameters of 4-OH atorvastatin by 45.0% and 46.8%, respectively. CONCLUSIONS: This animal model study showed a significant pharmacokinetic interaction between regorafenib and atorvastatin. While this interaction may be clinically significant, this needs to be confirmed in clinical trials involving cancer patients.",
+    "authors": [
+      "Szkutnik-Fiedler Danuta",
+      "Szałek Edyta",
+      "Otto Filip",
+      "Czyrski Andrzej",
+      "Karaźniewicz-Łada Marta",
+      "Wolc Anna",
+      "Grześkowiak Edmund",
+      "Lewandowski Konrad",
+      "Karbownik Agnieszka"
+    ],
+    "year": "2024",
+    "journal": "Pharmacological reports : PR"
+  },
+  {
+    "pmid": "9296249",
+    "title": "Digoxin-macrolide drug interaction.",
+    "abstract": "Macrolide antibiotics appear to be able to enhance the oral bioavailability of digoxin by altering the gastrointestinal flora that metabolize digoxin to less active dihydro metabolites, thus leading to increased serum digoxin concentrations and possible digoxin toxicity in select patients stabilized on digoxin therapy. This interaction may be of clinical importance in up to 10% of the population. Currently, the orally administered erythromycin, clarithromycin, and roxithromycin have been implicated. Although realistically this interaction may be encountered rarely, when it does occur, it can be of clinical significance.",
+    "authors": [
+      "Bizjak E D",
+      "Mauro V F"
+    ],
+    "year": "1997",
+    "journal": "The Annals of pharmacotherapy"
+  },
+  {
+    "pmid": "12093316",
+    "title": "Food-drug interactions.",
+    "abstract": "Interactions between food and drugs may inadvertently reduce or increase the drug effect. The majority of clinically relevant food-drug interactions are caused by food-induced changes in the bioavailability of the drug. Since the bioavailability and clinical effect of most drugs are correlated, the bioavailability is an important pharmacokinetic effect parameter. However, in order to evaluate the clinical relevance of a food-drug interaction, the impact of food intake on the clinical effect of the drug has to be quantified as well. As a result of quality review in healthcare systems, healthcare providers are increasingly required to develop methods for identifying and preventing adverse food-drug interactions. In this review of original literature, we have tried to provide both pharmacokinetic and clinical effect parameters of clinically relevant food-drug interactions. The most important interactions are those associated with a high risk of treatment failure arising from a significantly reduced bioavailability in the fed state. Such interactions are frequently caused by chelation with components in food (as occurs with alendronic acid, clodronic acid, didanosine, etidronic acid, penicillamine and tetracycline) or dairy products (ciprofloxacin and norfloxacin), or by other direct interactions between the drug and certain food components (avitriptan, indinavir, itraconazole solution, levodopa, melphalan, mercaptopurine and perindopril). In addition, the physiological response to food intake, in particular gastric acid secretion, may reduce the bioavailability of certain drugs (ampicillin, azithromycin capsules, didanosine, erythromycin stearate or enteric coated, and isoniazid). For other drugs, concomitant food intake may result in an increase in drug bioavailability either because of a food-induced increase in drug solubility (albendazole, atovaquone, griseofulvin, isotretinoin, lovastatin, mefloquine, saquinavir and tacrolimus) or because of the secretion of gastric acid (itraconazole capsules) or bile (griseofulvin and halofantrine) in response to food intake. For most drugs, such an increase results in a desired increase in drug effect, but in others it may result in serious toxicity (halofantrine).",
+    "authors": [
+      "Schmidt Lars E",
+      "Dalhoff Kim"
+    ],
+    "year": "2002",
+    "journal": "Drugs"
+  },
+  {
+    "pmid": "26296709",
+    "title": "Physiologically Based Pharmacokinetic (PBPK) Modeling and Simulation Approaches: A Systematic Review of Published Models, Applications, and Model Verification.",
+    "abstract": "Modeling and simulation of drug disposition has emerged as an important tool in drug development, clinical study design and regulatory review, and the number of physiologically based pharmacokinetic (PBPK) modeling related publications and regulatory submissions have risen dramatically in recent years. However, the extent of use of PBPK modeling by researchers, and the public availability of models has not been systematically evaluated. This review evaluates PBPK-related publications to 1) identify the common applications of PBPK modeling; 2) determine ways in which models are developed; 3) establish how model quality is assessed; and 4) provide a list of publically available PBPK models for sensitive P450 and transporter substrates as well as selective inhibitors and inducers. PubMed searches were conducted using the terms \"PBPK\" and \"physiologically based pharmacokinetic model\" to collect published models. Only papers on PBPK modeling of pharmaceutical agents in humans published in English between 2008 and May 2015 were reviewed. A total of 366 PBPK-related articles met the search criteria, with the number of articles published per year rising steadily. Published models were most commonly used for drug-drug interaction predictions (28%), followed by interindividual variability and general clinical pharmacokinetic predictions (23%), formulation or absorption modeling (12%), and predicting age-related changes in pharmacokinetics and disposition (10%). In total, 106 models of sensitive substrates, inhibitors, and inducers were identified. An in-depth analysis of the model development and verification revealed a lack of consistency in model development and quality assessment practices, demonstrating a need for development of best-practice guidelines.",
+    "authors": [
+      "Sager Jennifer E",
+      "Yu Jingjing",
+      "Ragueneau-Majlessi Isabelle",
+      "Isoherranen Nina"
+    ],
+    "year": "2015",
+    "journal": "Drug metabolism and disposition: the biological fate of chemicals"
+  },
+  {
+    "pmid": "36805824",
+    "title": "Novel food drug interaction mechanism involving acyclovir, chitosan and endogenous mucus.",
+    "abstract": "Drug absorption from drug products may be affected by pharmaceutical excipients and/or food additives through different mechanisms. Chitosan is a recognized nutraceutical, with potential as an excipient due to its permeability enhancer properties. While chitosan properties have been evaluated in in vitro and pre-clinical models, studies in humans are scarce. Unexpectedly, a controlled clinical trial showed chitosan actually reduced acyclovir bioavailability. The effect seems to be related to an interaction with gastrointestinal mucus that prevents further absorption, although more in depth research is needed to unravel the mechanism. In this paper, we propose a mechanism underlying this excipient effect. The mucus - chitosan interaction was characterized and its effect on acyclovir diffusion, permeation and bioaccessibility was investigated. Further, pharmacokinetic modeling was used to assess the clinical relevance of our findings. Results suggest that in situ coacervation between endogenous mucus and chitosan rapidly entrap 20-30% of acyclovir dissolved dose in the intestinal lumen. This local reduction of acyclovir concentration together with its short absorption window in the small intestine would explain the reduction in acyclovir Cmax and AUC. This study highlights the importance of considering mucus in any biorelevant absorption model attempting to anticipate the effect of chitosan on drug absorption.",
+    "authors": [
+      "García Mauricio A",
+      "Hensler Gönül",
+      "Al-Gousous Jozef",
+      "Pielenhofer Jonas",
+      "Wagner Manfred",
+      "Lennernäs Hans",
+      "Langguth Peter"
+    ],
+    "year": "2023",
+    "journal": "Drug metabolism and pharmacokinetics"
+  },
+  {
+    "pmid": "39920097",
+    "title": "Clinical Assessment of the Drug-Drug Interaction Potential of Omaveloxolone in Healthy Adult Participants.",
+    "abstract": "Omaveloxolone is approved in the United States and the European Union for the treatment of patients with Friedreich ataxia aged ≥16 years. It is mainly metabolized by cytochrome P450 (CYP) 3A4 in vitro. Two drug-drug interaction studies (NCT04008186 and NCT05909644) were performed to evaluate (1) the effect of drug-metabolizing enzymes (DMEs) and drug transporter (DT) modulators on the pharmacokinetics of omaveloxolone and (2) the effect of omaveloxolone on the pharmacokinetics of DME and DT substrates. Additionally, the safety of coadministering these drugs with omaveloxolone was assessed. Coadministration of the strong CYP3A4 inhibitor itraconazole significantly increased omaveloxolone maximum plasma concentration (Cmax) and area under the plasma concentration-time curve from time 0 extrapolated to infinity (AUC0-∞) by approximately 3- and 4-fold, respectively. Conversely, coadministration with the moderate CYP3A4 inducer efavirenz decreased Cmax and AUC0-∞ of omaveloxolone by 38.0% and 48.5%, respectively. Omaveloxolone exposure was also increased following coadministration with verapamil, a moderate CYP3A4 and P-glycoprotein (P-gp) inhibitor, but it was unaffected by the strong CYP2C8 inhibitor gemfibrozil. Coadministration of omaveloxolone reduced systemic exposure of the substrates of CYP3A4, CYP2C8, breast cancer resistance protein, and organic anion transporting polypeptide 1B1 but had no effect on those of P-gp and organic cation transporter 1. Omaveloxolone was well tolerated when administered alone and in combination with the DME and DT modulators or substrates. These findings support concomitant medication precautions and dosing recommendations for omaveloxolone when coadministered with a moderate or strong CYP3A4 inhibitor or inducer, as well as the substrates of certain CYP450 enzymes or transporters.",
+    "authors": [
+      "Zahir Hamim",
+      "Murai Masako",
+      "Wu Lucy",
+      "Valentine Michelle",
+      "Hynes Scott"
+    ],
+    "year": "2025",
+    "journal": "Journal of clinical pharmacology"
+  },
+  {
+    "pmid": "24619917",
+    "title": "Pharmacokinetic and pharmacodynamic drug-drug interaction assessment between pradigastat and digoxin or warfarin.",
+    "abstract": "Pradigastat, a novel diacylglycerol acyltransferase-1 inhibitor, was evaluated for both pharmacokinetic (PK) and pharmacodynamic (PD) drug-drug interactions when co-administered with digoxin or warfarin in healthy subjects. This open-label study included two parallel subject cohorts each with three sequential treatment periods. Forty subjects were enrolled in the study with 20 subjects allocated to each cohort. PK and PD (PT/INR for warfarin only) samples were collected in each period. The statistical analysis results showed that the 90% CIs of the geometric mean ratios of digoxin, R-warfarin, and S-warfarin PK parameters (AUC and Cmax) were all within 0.80-1.25 interval. The 90% CIs of the geometric mean ratios of pradigastat PK parameters (AUC and Cmax) were within 0.80-1.25 interval when co-administered with warfarin; while co-administration with digoxin slightly reduced pradigastat exposure (∼15%). The results also showed that 90% CIs of the geometric mean ratios of warfarin PD parameters (AUC(PT), PTmax, AUC(INR), and INRmax) were within 0.80-1.25 interval. Pradigastat and digoxin or warfarin had no relevant clinical PK or PD drug-drug interactions. Administration of pradigastat and warfarin or pradigastat and digoxin as a mono or combined treatment appears to be safe and tolerated.",
+    "authors": [
+      "Yan Jing-He",
+      "Meyers Dan",
+      "Lee Zachary",
+      "Danis Kate",
+      "Neelakantham Srikanth",
+      "Majumdar Tapan",
+      "Rebello Sam",
+      "Sunkara Gangadhar",
+      "Chen Jin"
+    ],
+    "year": "2014",
+    "journal": "Journal of clinical pharmacology"
+  },
+  {
+    "pmid": "29412463",
+    "title": "The Drug-Drug Interaction Profile of Presatovir.",
+    "abstract": "Respiratory syncytial virus (RSV) is a major cause of lower respiratory tract infections in young children. Presatovir (previously GS-5806) is a novel, orally administered RSV fusion inhibitor with a favorable safety profile and proven antiviral efficacy in preclinical and clinical studies. In vitro, presatovir is a substrate of the efflux transporters P-glycoprotein (P-gp) and breast cancer resistance protein (BCRP) and hepatic uptake transporters organic anion transporting polypeptide (OATP) 1B1 and OATP1B3 and is slowly metabolized by cytochrome P450 (CYP) 3A4 and CYP3A5. This study enrolled 64 healthy subjects to evaluate the effect of cyclosporine, a P-gp, BCRP, and OATP1B1/1B3 inhibitor; rifampin, a strong CYP3A4 and P-gp inducer; efavirenz, a moderate CYP3A4 inducer; and cobicistat, a potent CYP3A inhibitor, on presatovir pharmacokinetics. Presatovir plasma exposures (maximum observed plasma concentration [Cmax ] and area under the plasma concentration-time curve from time 0 extrapolated to infinity [AUCinf ]) were not affected by coadministration of cyclosporine, suggesting presatovir is not a sensitive substrate of P-gp, BCRP, or OATP1B1/1B3. As expected, based on the role of CYP3A in presatovir metabolism, presatovir exposure was increased by cobicistat (122% in AUCinf ), and decreased by rifampin (40.3% in Cmax and 82.5% in AUCinf ) and efavirenz (55.7% in AUCinf ). These data support coadministration of presatovir with inhibitors of P-gp, BCRP, OATP1B1/1B3, or CYP3A, but not with moderate or strong CYP3A4 inducers. Presatovir was well-tolerated with the most common drug-related adverse events of dizziness (n = 12) and somnolence (n = 4) reported during efavirenz treatment.",
+    "authors": [
+      "Xin Yan",
+      "Weng Winnie",
+      "Murray Bernard P",
+      "Eisenberg Eugene J",
+      "Chien Jason W",
+      "Ling John",
+      "Silverman Jeffrey A"
+    ],
+    "year": "2018",
+    "journal": "Journal of clinical pharmacology"
+  },
+  {
+    "pmid": "37357226",
+    "title": "Pharmacokinetics and Drug-Drug Interaction of Ocedurenone (KBP-5074) in vitro and in vivo.",
+    "abstract": "BACKGROUND AND OBJECTIVES: Ocedurenone (KBP-5074) is a novel nonsteroidal mineralocorticoid receptor antagonist that has demonstrated safety and efficacy in clinical trials in patients with uncontrolled hypertension and stage 3b/4 chronic kidney disease. This study evaluated the involvement of cytochrome P450 (CYP) isozymes and drug transporters in the biotransformation of ocedurenone, and whether ocedurenone inhibited or induced CYP enzymes and transporters. Clinical pharmacokinetic drug-drug interaction (DDI) of ocedurenone with CYP3A inhibitor and inducer were investigated in healthy volunteers. METHODS: In vitro tests were conducted to determine which CYP enzymes were involved in ocedurenone's metabolism and whether ocedurenone inhibited or induced these CYP enzymes; ocedurenone substrate characteristics for efflux and uptake transporters and its inhibitory potential on major drug transporters were also assessed. A clinical DDI study was conducted in healthy volunteers to evaluate the effects of a strong CYP3A inhibitor (itraconazole) and inducer (rifampin) on ocedurenone's pharmacokinetics. RESULTS: The in vitro study showed that ocedurenone was primarily metabolized by CYP3A4 and that it did not inhibit CYP enzymes. Ocedurenone appeared to be a substrate of BCRP and P-gp efflux transporters and inhibited BCRP, BSEP, MDR1, MATE1 and 2-K, OATP1B1/3, and OCT1. The clinical DDI study showed that itraconazole reduced ocedurenone's oral clearance by 51% and increased area under the plasma concentration-time curve extrapolated to infinity (AUC0-inf) by 104%, while rifampin increased its oral clearance by 6.4-fold and decreased plasma AUC0-inf by 84%. CONCLUSION: Ocedurenone was shown to be a CYP3A substrate, with no inhibition potential on major drug metabolizing CYP enzymes and transporters at clinical efficacious doses. Ocedurenone did not induce CYP1A2 and 3A4 activity in cultured human primary hepatocytes. Clinical DDI study indicated ocedurenone was well tolerated when administered as a single 0.5-mg dose both alone and with itraconazole or rifampin, and while itraconazole had a weak effect on ocedurenone's pharmacokinetics, rifampin had a significant effect reducing systemic exposures.",
+    "authors": [
+      "Wang Ping",
+      "Liu Jinrong",
+      "Tan Xiaojuan",
+      "Yang Fred",
+      "McCabe James",
+      "Zhang Jay"
+    ],
+    "year": "2023",
+    "journal": "European journal of drug metabolism and pharmacokinetics"
+  },
+  {
+    "pmid": "39827992",
+    "title": "Dosing and route of administration of clindamycin given in combination with rifampicin.",
+    "abstract": "OBJECTIVES: The aim of this study was to develop a pharmacokinetic (PK) interaction model of intravenous (i.v.) and oral clindamycin when combined with rifampicin, and to determine whether appropriate clindamycin concentrations could be achieved for different doses and administration routes (oral, intermittent and continuous infusion) of clindamycin. METHODS: Five hundred and eighteen plasma samples were prospectively obtained from 124 patients treated for bone and joint infections. Population pharmacokinetic analysis was performed using Monolix software. Monte Carlo simulations were run to determine the probability of achieving a minimal clindamycin plasma concentration equal to at least twice the MIC, or an unbound area under the curve/MIC ≥60. RESULTS: A linear one-compartment model with first-order absorption and elimination was developed. Concomitant administration of rifampicin increased clindamycin clearance by an average factor of 3, whereas the impact on clindamycin bioavailability was dose dependent, with decreases from 56 to 11 and 4% for rifampicin doses of 600 mg and 900 mg q12 h, respectively. When administered simultaneously with rifampicin, satisfactory clindamycin concentrations could not be obtained when given orally. i.v. administration of a daily 3600 mg dose would be convenient for more than 80% of the patients, but doses of at least 4800 mg/d would be needed for a MIC equal to the 0.25 mg/L European Committee on Antimicrobial Susceptibility Testing (EUCAST) clinical breakpoint for Staphylococcus aureus. Intermittent i.v. administration every 6 hours is preferable to q8h regimens for the Cmin/MIC criteria, but still performed poorly compared with continuous infusion. DISCUSSION: This model satisfyingly described the differential effect of rifampicin on the bioavailability and clearance of clindamycin. As previously described, this combination must not be taken orally. However, administration of clindamycin doses of at least 3600 mg/d by intermittent or, preferably, continuous infusion, can balance the impact of rifampicin.",
+    "authors": [
+      "Magréault Sophie",
+      "Berrah Racym",
+      "Kerroumi Younes",
+      "Mimram Léo",
+      "Salmon Dominique",
+      "Goulenok Tiphaine",
+      "de la Selle Andrea",
+      "Lefort Agnès",
+      "Marmor Simon",
+      "Helali Najoua Hel",
+      "Zeller Valérie",
+      "Jullien Vincent"
+    ],
+    "year": "2025",
+    "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases"
+  },
+  {
+    "pmid": "41563903",
+    "title": "Managing Drug-Drug Interactions Involving the Non-Prescription Opioid Loperamide Through Physiologically Based Pharmacokinetic Modeling.",
+    "abstract": "Loperamide is a widely used nonprescription peripherally acting opioid indicated for diarrhea. Loperamide undergoes extensive first-pass metabolism, primarily by cytochrome (CYP) 3A and CYP2C8, with minor contributions from CYP2B6 and CYP2D6, and intestinal efflux by P-glycoprotein (P-gp). Increasing case reports have described exaggerated peripheral opioid effects and cardiac toxicities when ultra-high doses (> 70 mg) of loperamide are consumed alone and with CYP or P-gp inhibitors. A physiologically based pharmacokinetic (PBPK) model for loperamide was developed, verified, and applied by simulating interactions with select inhibitor drugs. The model successfully described the pharmacokinetics of loperamide (4, 8, 16 mg loperamide•HCl) in healthy adults. The predicted area under the plasma concentration-time curve (AUC) and maximum concentration (Cmax) at all three doses were within 0.61-1.41-fold of observed values obtained from 10 clinical studies. The model independently well-captured the loperamide pharmacokinetic profile obtained from each of seven drug-drug interaction (DDI) studies. The inhibitor drugs tested included quinidine (P-gp), ritonavir (CYP3A/P-gp), gemfibrozil (CYP2C8), itraconazole (CYP3A/P-gp), gemfibrozil+itraconazole, and abemaciclib (CYP1A). Predicted AUC and Cmax for loperamide from each DDI study were within 0.78-1.45-fold of observed values. Predicted AUC ratios (AUC of loperamide in the presence to absence of inhibitor) were within 0.78-1.09-fold of observed ratios. This novel PBPK model for loperamide could be used to guide loperamide dosing under untested DDI scenarios when the drug is coadministered with certain CYP/transporter inhibitors to minimize toxicity risk.",
+    "authors": [
+      "Zhou Zhu",
+      "Ainslie Garrett R",
+      "Li Mengyao",
+      "Dinh Jean",
+      "Zamek-Gliszczynski Maciej J",
+      "Zhao Ping",
+      "Paine Mary F"
+    ],
+    "year": "2026",
+    "journal": "CPT: pharmacometrics & systems pharmacology"
+  },
+  {
+    "pmid": "33401223",
+    "title": "Drug-drug interactions between salvianolate injection and aspirin based on their metabolic enzymes.",
+    "abstract": "BACKGROUND: It is unclear whether the combination of traditional Chinese medicine and Western medicine leads to interactions in pharmacokinetics (PKs) and pharmacodynamics (PDs). In this study, the influence of salvianolate and aspirin on metabolic enzymes, and the relationship between the blood concentration and pharmacodynamic indexes, were determined. METHOD: In this, randomized, parallel-grouped, single-center clinical trial, 18 patients with coronary heart disease were randomly allocated into three groups: aspirin (AP) group, salvianolate (SV) group, and combination (A + S) group. All treatment courses lasted for 10 days, and blood samples were acquired before and after administration at different timepoints. The expression of catechol-O-methyltransferase (COMT), CD62p, procaspase-activating compound 1 (PAC-1), P2Y12, phosphodiesterase, and mitogen-activated protein kinase 8 (MAPK8) were compared with variance analysis The blood concentrations were analyzed by ultra-performance liquid chromatography-tandem mass spectrometry. RESULTS: Sixteen subjects completed the study. No significant difference in COMT was found among groups, although there was a decrease in the SV group. The PK results indicated that the absorption time of salicylic acid was shortened and the AUC0-∞ decreased and the elimination time of salvianolic acid B was prolonged and the AUC0-∞ decreased. The PD results declined after administration. A significant difference was found in MAPK8, CD62p, and P2Y12 expression. Compared with the SV group, a significant difference in P2Y12 in the A + S group was found. CONCLUSION: A pharmacokinetic drug-drug interaction was found in the aspirin and salvianolate combination. Pharmacodynamically, there was no difference between the A + S and AP groups. However, P2Y12 expression in the combination group was superior to that in the SV group. TRIAL REGISTRATION NUMBERS: The trial was registered on October 9, 2017, ClinicalTrials.gov, NCT03306550. https://register.clinicaltrials.gov/prs/app/action/SelectProtocol?sid=S0007D8H&selectaction=Edit&uid=U0003QY8&ts=2&cx=oiuc9g.",
+    "authors": [
+      "Cao Weiyi",
+      "Yang Qiaoning",
+      "Zhang Wantong",
+      "Xu Yonggang",
+      "Wang Shuge",
+      "Wu Yi",
+      "Zhao Yang",
+      "Guo Zhongning",
+      "Li Rui",
+      "Gao Rui"
+    ],
+    "year": "2021",
+    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+  },
+  {
+    "pmid": "40758244",
+    "title": "Assessing Cytochrome P450 Drug Interaction Risk for Dordaviprone Using Physiologically Based Pharmacokinetic Modeling.",
+    "abstract": "A physiologically based pharmacokinetic (PBPK) model was developed and verified for dordaviprone, a small molecule with antitumor effects in glioma patients. The model was applied to assess the drug-drug interaction (DDI) potential of dordaviprone as a victim of CYP3A4 inhibitors and inducers, and as a perpetrator of CYP3A4, CYP2C8, CYP2D6 inhibition. A combination of in vitro and clinical data was used to develop a minimal distribution PBPK model with a single adjusting compartment and mechanistic absorption using the Simcyp Population-Based Simulator (V21). Simulated maximum concentration (Cmax) and area under the concentration time curve (AUC) of the 3 clinical studies used to verify the PBPK model were within 1.4-fold of observed exposures. The simulated increase in dordaviprone AUC and Cmax (4.6- and 1.7-fold) following administration of multiple doses of itraconazole was consistent with the observed values (4.4- and 1.9-fold). All PBPK-simulated changes in dordaviprone plasma exposure when administered with CYP3A4 moderate (erythromycin, fluconazole) and weak (cimetidine) inhibitors, and moderate (efavirenz) and strong (rifampicin) inducers were consistent with their CYP3A4 potency classification (AUC ratio = 2.68, 2.48, 1.42, 0.35, and 0.17, respectively). The simulated AUC and Cmax of probe substrates for CYP3A4 (midazolam), CYP2C8 (repaglinide) and CYP2D6 (desipramine) after coadministration with 625 mg dordaviprone were the same as those in the absence of dordaviprone (ratio = 1.0) and remained unchanged after a sensitivity analysis using 10-fold more potent inhibition constants. Due to changes in dordaviprone plasma exposure when co-administered with CYP3A4 inhibitors, dordaviprone dose adjustments may be necessary; CYP3A4 inducers should be avoided.",
+    "authors": [
+      "Jaiswal Swati",
+      "Patel Nikunjkumar K",
+      "Jones Hannah M",
+      "McFeely Savannah",
+      "Faison Shamia L",
+      "Tippin Tim",
+      "Naderer Odin"
+    ],
+    "year": "2025",
+    "journal": "CPT: pharmacometrics & systems pharmacology"
+  },
+  {
+    "pmid": "37593838",
+    "title": "Pharmacokinetic and pharmacodynamic interaction of DWP16001, a sodium-glucose cotransporter-2 inhibitor, with phentermine in healthy subjects.",
+    "abstract": "BACKGROUND: DWP16001, a sodium-glucose cotransporter-2 inhibitor, has shown promise for improving blood glucose control and facilitating weight loss. Co-administration with phentermine could enhance these effects. So, we aimed to evaluate the pharmacokinetic (PK) and pharmacodynamic (PD) interactions of DWP16001 and phentermine. METHODS: We conducted a randomized, open-label, 3-treatment, 6-sequence, 3-period crossover study involving 24 healthy adults. Participants received either DWP16001 (2 mg), phentermine (37.5 mg), or a combination of both once daily for 7 days. Blood samples, urine samples, and body weights were collected to evaluate the PK and PD. RESULTS: The PK of the combination was found to be similar to that of the monotherapy. The geometric mean ratio (GMR) of Cmax,ss, and AUCtau,ss were 0.98 and 1.00, respectively, for DWP16001, and 1.01 and 0.94, respectively, for phentermine. Co-administration did not significantly affect the 24-hour urinary glucose excretion compared to DWP16001 monotherapy, and the GMR was 0.90. Participants tended to experience greater weight loss in the combination therapy group, and all demonstrated good tolerance. CONCLUSIONS: Our findings indicate that there were no significant interactions during co-administration. These results suggest that the combination of DWP16001 and phentermine may be safe and effective for the treatment of obesity and diabetes. CLINICAL TRIAL REGISTRATION: NCT05321732.",
+    "authors": [
+      "Yoon Sukyong",
+      "Park Min Soo",
+      "Jin Byung Hak",
+      "Shin Hyobin",
+      "Na Jaejin",
+      "Huh Wan",
+      "Kim Choon Ok"
+    ],
+    "year": "2023",
+    "journal": "Expert opinion on drug metabolism & toxicology"
+  },
+  {
+    "pmid": "27709656",
+    "title": "Predicting clinical relevance of grapefruit-drug interactions: a complicated process.",
+    "abstract": "WHAT IS KNOWN AND OBJECTIVE: Grapefruit juice interacts with a number of drugs. This commentary provides feedback on a previously proposed approach for predicting clinically relevant interactions with grapefruit juice based on the average inherent oral bioavailability (F) and magnitude of increase in bioavailability with other CYP3A inhibitors of the drug. COMMENT: Additional factors such as variability of the magnitude of the pharmacokinetic interaction among individuals, product monograph cautionary statements and vulnerability of the patient population should be considered. WHAT IS NEW AND CONCLUSION: A flow diagram is provided that should improve prediction of the pharmacokinetic interaction and clinical relevance for affected drugs and that recommends different courses of action for patient management. Forecasting the clinical importance of a particular drug interaction with grapefruit can be improved through consideration of additional readily available drug regulatory information.",
+    "authors": [
+      "Bailey D G"
+    ],
+    "year": "2017",
+    "journal": "Journal of clinical pharmacy and therapeutics"
+  },
+  {
+    "pmid": "34143391",
+    "title": "A Physiologically Based Pharmacokinetic and Drug-Drug Interaction Model for the CB2 Agonist Lenabasum.",
+    "abstract": "BACKGROUND AND OBJECTIVES: Lenabasum is a synthetic agonist of the cannabinoid receptor type 2 (CB2) with anti-inflammatory and antifibrotic properties. Utilizing Simcyp, we developed a physiologically based pharmacokinetic (PBPK) model based on physicochemical properties, cell culture data, and cytochrome P450 (CYP) phenotyping, inhibition, and induction data. METHODS: Clinical data from healthy volunteers treated with 20 mg of lenabasum in a single ascending dose (SAD) study were used for model development. The model was verified using lenabasum SAD (10 and 40 mg) data as well as multiple dose (20 mg three times per day) data. Lenabasum is a CYP substrate, and the model predicted lenabasum clearance of 51% by CYP2C9, 37% by CYP2C8, and 12% by CYP3A4. Lenabasum is also an inhibitor of these isozymes. RESULTS: The model accurately described the area under the plasma concentration-time curve (AUC) and maximum plasma concentration (Cmax) for lenabasum within 1.19-fold and 1.25-fold accuracy, respectively, of the observed clinical values. The simulations of CYP inducers predicted that the strongest interaction would occur with rifampin, with the AUC decreasing to 0.36 of the control value, whereas the simulations of CYP inhibitors predicted that the greatest effect would occur with fluconazole, with a 1.43-fold increase in AUC. CONCLUSIONS: Our model is a useful tool for predicting the pharmacokinetics of lenabasum and adjustments to its dosing in possible drug-drug interaction scenarios.",
+    "authors": [
+      "Fu Qiang",
+      "Jones Hannah M",
+      "Sun Gang",
+      "Atamas Sergei P"
+    ],
+    "year": "2021",
+    "journal": "European journal of drug metabolism and pharmacokinetics"
+  },
+  {
+    "pmid": "40331456",
+    "title": "Drug-drug interaction profile of ritlecitinib as perpetrator and victim through cytochrome P450.",
+    "abstract": "AIMS: To assess the effect of a potent cytochrome P450 (CYP) 3A inhibitor and CYP inducer on the pharmacokinetics of ritlecitinib, a JAK3/TEC family kinase inhibitor, and assess the effect of ritlecitinib on the pharmacokinetics of CYP substrates (midazolam, efavirenz, tolbutamide, caffeine and oral contraceptives [ethinyl oestradiol and levonorgestrel]) in healthy adults. METHODS: Seven clinical drug-drug interaction studies were analysed. Pharmacokinetic parameters for drugs as measured in blood plasma were used to estimate the drug interaction potential with ritlecitinib as a perpetrator or victim. RESULTS: Midazolam exposure (area under plasma concentration-time curve from time 0 to infinity [AUCinf]) and peak exposure (maximum concentration [Cmax]) were increased by ≈169% and ≈80.1%, respectively, in the presence of ritlecitinib. Efavirenz exposure (AUC0-72) and peak exposure (Cmax) were similar in the presence and absence of ritlecitinib coadministration. Tolbutamide pharmacokinetic parameters (AUCinf and Cmax) were not affected by multiple ritlecitinib doses. In the presence of ritlecitinib, AUCinf and Cmax of caffeine increased by ≈165% and ≈10%, respectively. AUCinf and Cmax of ethinyl oestradiol decreased by ≈18% and ≈12%, respectively, following coadministration of multiple ritlecitinib 200 mg once-daily doses, but no relevant change was observed following multiple 50 mg once-daily doses. Ritlecitinib doses did not affect the pharmacokinetics of levonorgestrel. Coadministration following multiple itraconazole doses increased ritlecitinib AUCinf by ≈15%. Coadministration following multiple rifampicin doses decreased AUCinf of ritlecitinib by ≈45%. CONCLUSIONS: Ritlecitinib is a moderate inhibitor of CYP3A and CYP1A2. Strong CYP inducers can reduce ritlecitinib concentrations, but not to clinically relevant levels leading to lack of benefit.",
+    "authors": [
+      "Purohit Vivek S",
+      "Huh Yeamin",
+      "Dowty Martin E",
+      "Plotka Anna",
+      "Lejeune Alexandre",
+      "Kalluru Hindu",
+      "Hee Brian"
+    ],
+    "year": "2025",
+    "journal": "British journal of clinical pharmacology"
+  },
+  {
+    "pmid": "31933482",
+    "title": "Confirmation of the drug-drug interaction potential between cobicistat-boosted antiretroviral regimens and hormonal contraceptives.",
+    "abstract": "BACKGROUND: Cobicistat (COBI), a CYP3A inhibitor, is a pharmacokinetic enhancer that increases exposures of the HIV protease inhibitors (PIs) atazanavir (ATV) and darunavir (DRV). The potential drug interaction between COBI-boosted PIs and hormonal contraceptives, which are substrates of intestinal efflux transporters and extensively metabolized by CYP enzymes, glucuronidation and sulfation, was evaluated. METHODS: This was a Phase I, open-label, two cohort (n=18/cohort), fixed-sequence study in healthy females that evaluated the drug-drug interaction (DDI) between multiple-dose ATV+COBI or DRV+COBI and single-dose drospirenone/ethinyl estradiol (EE). DDIs were evaluated using 90% confidence intervals of the geometric least-squares mean ratios of the test (drospirenone/EE+boosted PI) versus reference (drospirenone/EE) using lack of DDI boundaries of 70-143%. Safety was assessed throughout the study. RESULTS: 29/36 participants completed the study. Relative to drospirenone/EE alone, drospirenone area under the plasma concentration versus time curve extrapolated to infinity (AUCinf) was 1.6-fold and 2.3-fold higher, and maximum observed plasma concentration (Cmax) was unaltered, upon coadministration with DRV+COBI and ATV+COBI, respectively. EE AUCinf decreased 30% with drospirenone/EE + DRV+COBI and was unchanged with ATV+COBI + drospirenone/EE, relative to drospirenone/EE alone. Study treatments were generally well tolerated. The majority of adverse events were mild and consistent with known safety profiles of the compounds. CONCLUSIONS: Consistent with COBI-mediated CYP3A inhibition, drospirenone exposure increased following coadministration with COBI-containing regimens, with a greater increase with ATV+COBI. Thus, clinical monitoring for drospirenone-associated hyperkalaemia is recommended with DRV+COBI and ATV+COBI should not be used with drospirenone. Lower EE exposure with DRV+COBI may be attributed to inductive effects of DRV on CYP enzymes and/or intestinal efflux transporters (that is, P-gp) involved in EE disposition.",
+    "authors": [
+      "Majeed Sophia R",
+      "West Steve",
+      "Ling Kah Hiing",
+      "Das Moupali",
+      "Kearney Brian P"
+    ],
+    "year": "2019",
+    "journal": "Antiviral therapy"
+  },
+  {
+    "pmid": "32187961",
+    "title": "Molecular pharmacokinetic mechanism of the drug-drug interaction between genistein and repaglinide mediated by P-gp.",
+    "abstract": "This study was devised to investigate if P-glycoprotein (P-gp) mediated the drug-drug interaction (DDI) between genistein and repaglinide. When genistein was added, the plasma concentrations of repaglinide in rats were increased. The maximum plasma concentration (Cmax) of repaglinide increased from 70.80 ± 7.98 ng/mL to 124.71 ± 9.02 ng/mL and the area under the plasma concentration-time curve (AUC) increased from 134.89 ± 13.65 μg·h/L to 245.95 ± 7.24 μg·h/L. Intestinal absorption of repaglinide was markedly enhanced by genistein or P-gp inhibitor verapamil (Ver), both in situ rat jejunal perfusion studies and in vitro transport assays using everted rat intestinal sac preparations. Furthermore, the accumulation of repaglinide in both Caco-2 cells and IEC-6 cells also increased significantly in the presence of genistein and Ver. The transepithelial transport rate of repaglinide from basolateral-to-apical in MDR1-MDCK cells was 3.6-fold higher than the apical-to-basolateral rate with a net efflux ratio of 1.92 compared with mock-MDCK cells, which was significantly decreased following co-administration with genistein or Ver. In an intracellular accumulation experiment using Rhodamine 123 as a P-gp substrate, genistein significantly increased the intracellular fluorescence of Rhodamine 123. These results indicated that genistein had an inhibitory effect on the efflux function of P-gp. Through molecular docking assays we further found that genistein could bind to the nucleotide-binding domains (NBD) in the cytoplasm of P-gp, thus affecting the functions of P-gp. In conclusion, genistein inhibited the efflux of repaglinide mediated by P-gp in rats and in vitro. The findings suggested that the DDI between genistein and repaglinide is mediated by P-gp, and a dosage adjustment may be needed when they are co-administered in a clinical setting.",
+    "authors": [
+      "Jin Huan",
+      "Zhu Yanna",
+      "Wang Changyuan",
+      "Meng Qiang",
+      "Wu Jingjing",
+      "Sun Pengyuan",
+      "Ma Xiaodong",
+      "Sun Huijun",
+      "Huo Xiaokui",
+      "Liu Kexin",
+      "Tan Aiping"
+    ],
+    "year": "2020",
+    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie"
+  },
+  {
+    "pmid": "20489029",
+    "title": "Lack of pharmacokinetic drug interaction between oral posaconazole and caspofungin or micafungin.",
+    "abstract": "The objective of this phase 1, open-label, parallel, randomized study was to determine the effect of posaconazole on the pharmacokinetics of caspofungin and micafungin in 67 healthy subjects. Caspofungin (70 mg on day 1, 50 mg on days 2-14 once daily; 1-hour intravenous infusion) (cohort 1) or micafungin (150 mg once daily days 1-7; 1-hour IV infusion) (cohort 2) was administered alone or with posaconazole oral suspension 400 mg twice daily, on days 1 to 14 (cohort 1) or days 1 to 7 (cohort 2). Pharmacokinetic parameters, maximum plasma concentration (C(max)), steady-state area under the plasma concentration-time curve over the dosing interval (AUC[τ]), and time to C(max) (T(max)) were assessed. Safety assessments included adverse events, clinical laboratory tests, vital signs, and electrocardiograms. Repeated posaconazole dosing did not affect caspofungin or micafungin pharmacokinetics. Log-transformed ratio estimates of caspofungin with posaconazole C(max) and AUC(τ) were 90% and 98%, respectively, of those with caspofungin alone at day 14; ratio estimates of micafungin with posaconazole C(max) and AUC(τ) were 104% and 109%, respectively, of those with micafungin alone at day 7. Median T(max) (1 hour) did not change. Coadministration of posaconazole with caspofungin or micafungin was generally well tolerated and did not affect the pharmacokinetics of either echinocandin.",
+    "authors": [
+      "Krishna Gopal",
+      "Vickery Donna",
+      "Ma Lei",
+      "Yu Xin",
+      "Noren Carl",
+      "Power Edward",
+      "Beresford Eric",
+      "Medlock Matthew"
+    ],
+    "year": "2011",
+    "journal": "Journal of clinical pharmacology"
+  },
+  {
+    "pmid": "27457785",
+    "title": "Clarification of the Mechanism of Clopidogrel-Mediated Drug-Drug Interaction in a Clinical Cassette Small-dose Study and Its Prediction Based on In Vitro Information.",
+    "abstract": "Clopidogrel is reported to be associated with cerivastatin-induced rhabdomyolysis, and clopidogrel and its metabolites are capable of inhibiting CYP2C8 and OATP 1B1 in vitro. The objective of the present study was to identify the mechanism of clopidogrel-mediated drug-drug interactions (DDIs) on the pharmacokinetics of OATP1B1 and/or CYP2C8 substrates in vivo. A clinical cassette small-dose study using OATPs, CYP2C8, and OATP1B1/CYP2C8 probe drugs (pitavastatin, pioglitazone, and repaglinide, respectively) with or without the coadministration of either 600 mg rifampicin (an inhibitor for OATPs), 200 mg trimethoprim (an inhibitor for CYP2C8), or 300 mg clopidogrel was performed, and the area under the concentration-time curve (AUC) ratios (AUCRs) for probe substrates were predicted using a static model. Clopidogrel increased the AUC of pioglitazone (2.0-fold) and repaglinide (3.1-fold) but did not significantly change the AUC of pitavastatin (1.1-fold). In addition, the AUC of pioglitazone M4, a CYP2C8-mediated metabolite of pioglitazone, was reduced to 70% of the control by coadministration of clopidogrel. The predicted AUCRs using the mechanism-based inhibition of CYP2C8 by clopidogrel acyl-β-glucuronide were similar to the observed AUCRs, and the predicted AUCR (1.1) of repaglinide using only the inhibition of OATP1B1 did not reach the observed AUCR (3.1). In conclusion, a single 300 mg of clopidogrel mainly inhibits CYP2C8-mediated metabolism by clopidogrel acyl-β-glucuronide, but its effect on the pharmacokinetics of OATP1B1 substrates is negligible. Clopidogrel is expected to have an effect not only on CYP2C8 substrates, but also dual CYP2C8/OATP1B1 substrates as seen in the case of repaglinide.",
+    "authors": [
+      "Kim Soo-Jin",
+      "Yoshikado Takashi",
+      "Ieiri Ichiro",
+      "Maeda Kazuya",
+      "Kimura Miyuki",
+      "Irie Shin",
+      "Kusuhara Hiroyuki",
+      "Sugiyama Yuichi"
+    ],
+    "year": "2016",
+    "journal": "Drug metabolism and disposition: the biological fate of chemicals"
+  },
+  {
+    "pmid": "34860644",
+    "title": "Effect of quercetin on the pharmacokinetics of selexipag and its active metabolite in beagles.",
+    "abstract": "CONTEXT: As an inhibitor cytochrome P450 family 2 subfamily C polypeptide 8 (CYP2C8), quercetin is a naturally occurring flavonoid with its glycosides consumed at least 100 mg per day in food. However, it is still unknown whether quercetin and selexipag interact. OBJECTIVE: The study investigated the effect of quercetin on the pharmacokinetics of selexipag and ACT-333679 in beagles. MATERIALS AND METHODS: The ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS) was used to investigate the pharmacokinetics of orally administered selexipag (2 mg/kg) with and without quercetin (2 mg/kg/day for 7 days) pre-treatment in beagles. The effect of quercetin on the pharmacokinetics of selexipag and its potential mechanism was studied through the pharmacokinetic parameters. RESULTS: The assay method was validated for selexipag and ACT-333679, and the lower limit of quantification for both was 1 ng/mL. The recovery and the matrix effect of selexipag were 84.5-91.58% and 94.98-99.67%, while for ACT-333679 were 81.21-93.90% and 93.17-99.23%. The UPLC-MS/MS method was sensitive, accurate and precise, and had been applied to the herb-drug interaction study of quercetin with selexipag and ACT-333679. Treatment with quercetin led to an increased in Cmax and AUC0-t of selexipag by about 43.08% and 26.92%, respectively. While the ACT-333679 was about 11.11% and 18.87%, respectively. DISCUSSION AND CONCLUSION: The study indicated that quercetin could inhibit the metabolism of selexipag and ACT-333679 when co-administration. Therefore, the clinical dose of selexipag should be used with caution when co-administered with foods high in quercetin.",
+    "authors": [
+      "Luo Shun-Bin",
+      "Gu Er-Min",
+      "Chen Yu-Ao",
+      "Zhou Shi-Chen",
+      "Fan Chen",
+      "Xu Ren-Ai"
+    ],
+    "year": "2022",
+    "journal": "Pharmaceutical biology"
+  },
+  {
+    "pmid": "34410882",
+    "title": "Evaluation of herb-drug interaction of ambrisentan with shikonin based on UPLC-MS/MS.",
+    "abstract": "CONTEXT: Ambrisentan is an oral endothelin-receptor antagonist (ERA). However, there is no report on the interaction between ambrisentan and shikonin. OBJECTIVE: To investigate the effect of shikonin on ambrisentan metabolism in vivo and in vitro. MATERIALS AND METHODS: This study developed an ultra-performance liquid chromatography tandem mass spectrometry (UPLC-MS/MS) method for simultaneous determination of ambrisentan and (S)-4-hydroxymethyl ambrisentan in rat plasma. Twelve male Sprague-Dawley (SD) rats were divided into two groups (n = 6): the control group and shikonin (20 mg/kg) group. The pharmacokinetics of ambrisentan (2.5 mg/kg) were investigated after 30 min. Additionally, human and rat liver microsomes were used to investigate the herb-drug interaction. RESULTS: The UPLC-MS/MS method was shown to be accurate, precise and reliable, and was successfully applied to the herb-drug interaction study of ambrisentan with shikonin. When co-administrated with 20 mg/kg shikonin, the Cmax and AUC(0-∞) of ambrisentan were significantly increased by 44.96 and 16.65%, respectively (p < 0.05). In addition, there were modest decreases in (S)-4-hydroxymethyl ambrisentan Cmax and AUC(0-∞) in the presence of shikonin (p < 0.05), which indicated that these results were in accordance with the inhibition of shikonin on ambrisentan metabolism. Moreover, enzyme kinetic study indicated that shikonin had an inhibitory effect on human and rat microsomes where the IC50 values of shikonin were 5.865 and 6.358 μM, respectively. CONCLUSIONS: Our study indicated that shikonin could inhibit ambrisentan metabolism. Further studies need to be carried out to verify whether similar interaction truly apply in humans and whether this interaction has clinical significance.",
+    "authors": [
+      "Lan Tian",
+      "Fang Ping",
+      "Ye Xuemei",
+      "Lan Xia",
+      "Xu Ren-Ai"
+    ],
+    "year": "2021",
+    "journal": "Pharmaceutical biology"
+  },
+  {
+    "pmid": "27321165",
+    "title": "In vitro and clinical evaluation of OATP-mediated drug interaction potential of sacubitril/valsartan (LCZ696).",
+    "abstract": "WHAT IS KNOWN AND OBJECTIVE: Sacubitril/valsartan (LCZ696) has been recently approved for the treatment of heart failure (HF) patients with reduced ejection fraction. Several HF patients receive statins as co-medication. METHODS: Because clearance of statins is meditated via OATP1B1/1B3, the inhibition potential of these transporters by LCZ696 analytes was evaluated in vitro. Furthermore, an open-label, fixed-sequence clinical study was conducted to determine the effect of LCZ696 on the exposure of simvastatin and its active metabolite simvastatin acid. In this clinical study, 26 healthy subjects received simvastatin 40 mg alone or in combination with LCZ696 or after 1 or 2 h of LCZ696 dosing. RESULTS AND DISCUSSION: Although no significant inhibition by LBQ657 (an active metabolite of sacubitril) and valsartan was observed, sacubitril inhibited OATP1B1 and OATP1B3 in vitro, with IC50 of 1·91 and 3·81 μm, respectively. Upon co-administration of simvastatin with LCZ696, the Cmax of simvastatin and simvastatin acid decreased by 7% and 13%, respectively. When administered 1 h after LCZ696 dosing, the corresponding Cmax of simvastatin and simvastatin acid decreased by 16% and 4%, respectively. When administered 2 h after LCZ696 dosing, the Cmax of simvastatin decreased by 33% and that of simvastatin acid increased by 16%. However, no notable changes were observed in the AUCs of simvastatin or simvastatin acid upon co-administration or time-separated administration with LCZ696. No notable impact of simvastatin co-administration was observed on the pharmacokinetics of LCZ696 analytes. LCZ696 and simvastatin were generally well tolerated when administered alone or in combination. WHAT IS NEW AND CONCLUSIONS: Overall, the results of this study suggest that although sacubitril inhibited OATP1B1 and OATP1B3 in vitro, it does not translate into any clinically relevant in vivo effect.",
+    "authors": [
+      "Ayalasomayajula S",
+      "Han Y",
+      "Langenickel T",
+      "Malcolm K",
+      "Zhou W",
+      "Hanna I",
+      "Alexander N",
+      "Natrillo A",
+      "Goswami B",
+      "Hinder M",
+      "Sunkara G"
+    ],
+    "year": "2016",
+    "journal": "Journal of clinical pharmacy and therapeutics"
+  },
+  {
+    "pmid": "33899649",
+    "title": "Safety and pharmacokinetic interaction between fotagliptin, a dipeptidyl peptidase-4 inhibitor, and metformin in healthy subjects.",
+    "abstract": "BACKGROUND: Dipeptidyl peptidase-4 (DPP-4) inhibitors have significant clinical efficacy for type 2 diabetes mellitus (T2DM). The combination of fotagliptin (FOT) with metformin (MET) is a promising therapeutic approach in MET-resistant patients. The aim of the present study was to evaluate the pharmacokinetic (PK) interaction between FOT and MET in healthy subjects after multiple-dose administration. METHODS: Eighteen participants received a randomized open-label, three period treatment that included MET 1000 mg alone, co-administration of FOT 24 mg and MET, followed by FOT 24 mg alone. Serial blood samples were collected for PK analysis, which included geometric mean ratios (GMRs) with 90% confidence intervals (CIs), area under the concentration-time curve (AUC), and maximum plasma concentration (Cmax). RESULTS: Analysis results showed that for FOT alone or combination therapy, the 90% CIs of the GMR for AUC0-24,ss and Cmax,ss were 102.08% (98.9%, 105.36%) and 110.65% (102.19%, 119.82%), respectively. For MET, they were 113.41% (100.32%, 128.22%) and 97.11% (83.80%, 112.55%) for AUC0-12,ss and Cmax,ss, respectively. FOT or MET monotherapy and the combination therapy with both drugs were well tolerated. CONCLUSIONS: No PK drug-drug interactions were found in the combination therapy with FOT and MET. Therefore, FOT can be co-administered with MET without dose adjustment. TRIAL REGISTRATION: The trial is registered at http://www.chinadrugtrials.org.cn/(Registration No. CTR20190221).",
+    "authors": [
+      "Ding Yanhua",
+      "Zhang Hong",
+      "Li Cuiyun",
+      "Zheng WenBo",
+      "Wang Meng",
+      "Li Ying",
+      "Sun HaiGang",
+      "Wu Min"
+    ],
+    "year": "2021",
+    "journal": "Expert opinion on drug metabolism & toxicology"
+  },
+  {
+    "pmid": "37424270",
+    "title": "Evaluation of the pharmacokinetic interactions and safety of atogepant coadministered with esomeprazole.",
+    "abstract": "Aim: To investigate potential pharmacokinetic interactions between atogepant and esomeprazole. Methods: Atogepant, esomeprazole, or both were administered to 32 healthy adults in an open-label, nonrandomized, crossover study. Systemic exposure (area under the plasma concentration-time curve [AUC] and peak plasma concentration [Cmax]) for atogepant administered in combination versus alone were compared using a linear mixed effects model. Results: Coadministration with esomeprazole delayed atogepant time to Cmax by ∼1.5 h and reduced Cmax by ∼23% with no statistically significant change in AUC compared with atogepant alone. Administration of atogepant 60 mg alone or in combination with esomeprazole 40 mg was well tolerated in healthy adults. Conclusion: Esomeprazole had no clinically meaningful effect on atogepant pharmacokinetics. Clinical Trial Registration: unregistered phase I study. A clinical study was conducted in 32 healthy adults to evaluate the possibility of interactions between atogepant, a new drug for the prevention of migraine, and esomeprazole, a drug used to reduce stomach acid. The participants of the study were given each drug alone and together to understand the effect they had on the body's ability to absorb, distribute, and excrete each drug alone and together. The results of this study show that there are no clinically important changes in how atogepant is processed by the body when administered with esomeprazole, and they can be safely taken together.",
+    "authors": [
+      "Boinpally Ramesh",
+      "Butler Matthew",
+      "Rojo Jonathan",
+      "Borbridge Lisa",
+      "Wangsadipura Veronica",
+      "Papinska Anna"
+    ],
+    "year": "2023",
+    "journal": "Pain management"
+  },
+  {
+    "pmid": "33237382",
+    "title": "Physiologically Based Pharmacokinetic Models of Probenecid and Furosemide to Predict Transporter Mediated Drug-Drug Interactions.",
+    "abstract": "PURPOSE: To provide whole-body physiologically based pharmacokinetic (PBPK) models of the potent clinical organic anion transporter (OAT) inhibitor probenecid and the clinical OAT victim drug furosemide for their application in transporter-based drug-drug interaction (DDI) modeling. METHODS: PBPK models of probenecid and furosemide were developed in PK-Sim®. Drug-dependent parameters and plasma concentration-time profiles following intravenous and oral probenecid and furosemide administration were gathered from literature and used for model development. For model evaluation, plasma concentration-time profiles, areas under the plasma concentration-time curve (AUC) and peak plasma concentrations (Cmax) were predicted and compared to observed data. In addition, the models were applied to predict the outcome of clinical DDI studies. RESULTS: The developed models accurately describe the reported plasma concentrations of 27 clinical probenecid studies and of 42 studies using furosemide. Furthermore, application of these models to predict the probenecid-furosemide and probenecid-rifampicin DDIs demonstrates their good performance, with 6/7 of the predicted DDI AUC ratios and 4/5 of the predicted DDI Cmax ratios within 1.25-fold of the observed values, and all predicted DDI AUC and Cmax ratios within 2.0-fold. CONCLUSIONS: Whole-body PBPK models of probenecid and furosemide were built and evaluated, providing useful tools to support the investigation of transporter mediated DDIs.",
+    "authors": [
+      "Britz Hannah",
+      "Hanke Nina",
+      "Taub Mitchell E",
+      "Wang Ting",
+      "Prasad Bhagwat",
+      "Fernandez Éric",
+      "Stopfer Peter",
+      "Nock Valerie",
+      "Lehr Thorsten"
+    ],
+    "year": "2020",
+    "journal": "Pharmaceutical research"
+  },
+  {
+    "pmid": "34718654",
+    "title": "Mechanism of dasabuvir inhibition of acetaminophen glucuronidation.",
+    "abstract": "OBJECTIVES: Acetaminophen (APAP) (paracetamol) is a widely used non-prescription drug for pain relief and antipyretic effects. The clearance of APAP is mainly through phase-2 biotransformation catalysed by UDP-glucuronosyl transferases (UGT). Dasabuvir is an anti-hepatitis C drug reported to inhibit several UGT isoforms. The study evaluated the in-vitro inhibitory capacity of dasabuvir versus APAP glucuronidation. METHODS: Procedures included human liver microsomal incubations with APAP and isoform-selective probe substrates. KEY FINDINGS: Dasabuvir inhibited APAP metabolism by a reversible, mixed-type (competitive and non-competitive) partial inhibition, with an inhibition constant Ki = 3.4 µM. The index constant 'a' was 6.7, indicating the relative contribution of competitive and non-competitive inhibition. The enzyme-inhibitor complex was still able to catalyse the reaction by 12% of the control capacity. Dasabuvir produced strong partial inhibition effect of UGT1A1 and UGT1A9 and relatively complete inhibition of UGT1A6. CONCLUSIONS: Consistent with previous reports, dasabuvir inhibits the activity of 3 UGT isoforms associated with APAP metabolism. In-vitro to in-vivo scaling by 2 different approaches showed identical results, predicting an increased AUC of APAP by a factor of 1.3-fold with coadministration of dasabuvir. Until the findings are confirmed in clinical drug interaction studies, APAP dosage should not exceed 3 g per day in dasabuvir-treated patients to avoid potentially hepatotoxic APAP exposures.",
+    "authors": [
+      "Zhang Qingchen",
+      "Duan Su Xiang",
+      "Harmatz Jerold S",
+      "Wei Zixuan",
+      "Singleton Christopher A",
+      "Greenblatt David J"
+    ],
+    "year": "2022",
+    "journal": "The Journal of pharmacy and pharmacology"
+  },
+  {
+    "pmid": "23118326",
+    "title": "Clinical pharmacokinetics, metabolism, and drug-drug interaction of carfilzomib.",
+    "abstract": "Carfilzomib, an irreversible proteasome inhibitor, has a favorable safety profile and significant antitumor activity in patients with relapsed and refractory multiple myeloma (MM). Here we summarize the clinical pharmacokinetics (PK), metabolism, and drug-drug interaction (DDI) profile of carfilzomib. The PK of carfilzomib, infused over 2-10 minutes, was evaluated in patients with solid tumors or MM. Metabolites of carfilzomib were characterized in patient plasma and urine samples. In vitro drug metabolism and DDI studies were conducted in human liver microsomes and hepatocytes. A clinical DDI study was conducted in patients with solid tumors to evaluate the effect of carfilzomib on CYP3A activity. Plasma concentrations of carfilzomib declined rapidly and in a biphasic manner after intravenous administration. The systemic half-life was short and the systemic clearance rate was higher than hepatic blood flow. Carfilzomib was cleared largely extrahepatically via peptidase cleavage and epoxide hydrolysis. Cytochrome P450-mediated metabolism played a minor role, suggesting that coadministration of P450 inhibitors or inducers is unlikely to change its PK profile. Carfilzomib showed direct and time-dependent inhibition of CYP3A in human liver microsome preparations and exposure to carfilzomib resulted in reductions in CYP3A and 1A2 gene expression in cultured human hepatocytes. However, administration of carfilzomib did not affect the PK of midazolam in patients with solid tumors, and there were no safety signals indicative of potential drug interactions. We conclude that the rapid systemic clearance and short half-life of carfilzomib limit clinically significant DDI.",
+    "authors": [
+      "Wang Zhengping",
+      "Yang Jinfu",
+      "Kirk Christopher",
+      "Fang Ying",
+      "Alsina Melissa",
+      "Badros Ashraf",
+      "Papadopoulos Kyriakos",
+      "Wong Alvin",
+      "Woo Tina",
+      "Bomba Darrin",
+      "Li Jin",
+      "Infante Jeffrey R"
+    ],
+    "year": "2013",
+    "journal": "Drug metabolism and disposition: the biological fate of chemicals"
+  },
+  {
+    "pmid": "42454798",
+    "title": "A clinical drug-drug interaction assessment using physiologically based pharmacokinetic modeling: a case study with chloroquine and colchicine.",
+    "abstract": "The combination of drugs for malaria treatment holds promise, although the potential for drug-drug interactions remains insufficiently explored in novel therapeutic combinations. This study aims to assess these interactions using physiologically based pharmacokinetic modeling, supported by data-driven parameter optimization, as a step towards the preclinical development of a formulation containing chloroquine and colchicine. Given that both compounds share metabolic pathways involving CYP3A4 and CYP2D6, we developed individual and population models using a middle-out strategy in PK-Sim®, an open-source software, and validated these models by comparing predicted and observed pharmacokinetic parameters. Simulations evaluated competitive inhibition between the compounds. The results indicated no significant changes in systemic exposure, with the area under the curve and maximum concentration values remaining consistent between single and combined administration. Our findings suggest that the proposed modeling is a powerful tool for predicting pharmacokinetic interactions during the preformulation stage, offering mechanistic insight and supporting rational decision-making prior to in vivo studies. The absence of significant drug-drug interactions between chloroquine and colchicine reinforces the feasibility of advancing this combination in future therapeutic development.",
+    "authors": [
+      "Maciel T R",
+      "Teixeira F E G",
+      "Bitencourt I C",
+      "Pacheco C O",
+      "Haas S E"
+    ],
+    "year": "2026",
+    "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas"
+  },
+  {
+    "pmid": "38830622",
+    "title": "A drug-drug interaction study and physiologically based pharmacokinetic modelling to assess the effect of an oral 5-lipoxygenase activating protein inhibitor on the pharmacokinetics of oral midazolam.",
+    "abstract": "AIMS: Early clinical studies have indicated that the pharmacokinetics of Atuliflapon (AZD5718) are time and dose dependent. The reason(s) for these findings is(are) not fully understood, but pre-clinical profiling suggests that time-dependent CYP3A4 inhibition cannot be excluded. In clinical practice, Atuliflapon will be co-administered with CYP3A4 substrates; thus, it is important to determine the impact of Atuliflapon on the pharmacokinetics (PK) of CYP3A4 substrates. The aim of this study was to evaluate the effect of Atuliflapon on the pharmacokinetics of a sensitive CYP3A4 substrate, midazolam, and to explore if the time-/dose-dependent effect seen after repeated dosing could be an effect of change in CYP3A4 activity. METHODS: Open-label, fixed-sequence study in healthy volunteers to assess the PK of midazolam alone and in combination with Atuliflapon. Fourteen healthy male subjects received single oral dose of midazolam 2 mg on days 1 and 7 and single oral doses of Atuliflapon (125 mg) from days 2 to 7. A physiologically based pharmacokinetic (PBPK) model was developed to assess this drug-drug interaction. RESULTS: Mean midazolam values of maximum plasma concentration (Cmax) and area under the curve (AUC) to infinity were increased by 39% and 56%, respectively, when co-administered with Atuliflapon vs. midazolam alone. The PBPK model predicted a 27% and 44% increase in AUC and a 23% and 35% increase in Cmax of midazolam following its co-administrations with two predicted therapeutically relevant doses of Atuliflapon. CONCLUSIONS: Atuliflapon is a weak inhibitor of CYP3A4; this was confirmed by the validated PBPK model. This weak inhibition is predicted to have a minor PK effect on CYP3A4 metabolized drugs.",
+    "authors": [
+      "Knöchel Jane",
+      "Panduga Vijender",
+      "Nelander Karin",
+      "Heijer Maria",
+      "Lindstedt Eva-Lotte",
+      "Ali Hodan",
+      "Aurell Malin",
+      "Ödesjö Helena",
+      "Forte Pablo",
+      "Connolly Kat",
+      "Ericsson Hans",
+      "MacPhee Iain"
+    ],
+    "year": "2024",
+    "journal": "British journal of clinical pharmacology"
+  },
+  {
+    "pmid": "31992459",
+    "title": "Evaluation of the Pharmacokinetic Interaction Between Lobeglitazone and Dapagliflozin at Steady State.",
+    "abstract": "PURPOSE: Coadministration of lobeglitazone and dapagliflozin is expected to result in a blood glucose-lowering effect, followed by a gradual increase, in clinical usage; however, combining drugs could cause negative interactions. This study aimed to evaluate the effect of the coadministration of lobeglitazone and dapagliflozin on their individual pharmacokinetic properties at steady state in healthy male volunteers in the fasted state. METHODS: This study consisted of 2 parts, each of which was a randomized, open-labeled, multiple-dose, 2-way crossover study in 20 healthy male volunteers in each part. Blood samples were taken periodically over a 48-h period after dosing to derive total plasma lobeglitazone and dapagliflozin pharmacokinetic properties; safety profile was evaluated throughout the study. FINDINGS: When the pharmacokinetic properties of dapagliflozin were evaluated following its administration alone and in combination with lobeglitazone, point estimate and 90% CI of the geometric mean ratio of dapagliflozin AUCτ were entirely within the conventional bioequivalence range of 80%-125%. However, although it was not clinically meaningful, its Css,max was ~8% lower in subjects receiving multiple doses of dapagliflozin and lobeglitazone than that in those administered dapagliflozin alone. The pharmacokinetic properties of lobeglitazone were evaluated following its administration alone and in combination with dapagliflozin. The geometric mean ratios and 90% CIs of the lobeglitazone Css,max and AUCτ were within the conventional bioequivalence range of 80%-125%. IMPLICATIONS: Coadministration of lobeglitazone and dapagliflozin had no apparent clinically relevant effects on the pharmacokinetic properties of either drug. Based on these findings, it is anticipated that lobeglitazone and dapagliflozin can be coadministered without dose adjustment. ClinicalTrials.gov identifier: NCT03616392.",
+    "authors": [
+      "Jang Kyungho",
+      "Jeon Ji-Young",
+      "Moon Seol Ju",
+      "Kim Min-Gul"
+    ],
+    "year": "2020",
+    "journal": "Clinical therapeutics"
+  },
+  {
+    "pmid": "30335192",
+    "title": "Assessment of OATP transporter-mediated drug-drug interaction using physiologically-based pharmacokinetic (PBPK) modeling - a case example.",
+    "abstract": "GDC-0810 was under development as an oral anti-cancer drug for the treatment of estrogen receptor-positive breast cancer as a single agent or in combination. In vitro data indicated that GDC-0810 is a potent inhibitor of OATP1B1/1B3. To assess clinical risk, a PBPK model was developed to predict the transporter drug-drug interaction (tDDI) between GDC-0810 and pravastatin in human. The PBPK model was constructed in Simcyp® by integrating in vitro and in vivo data for GDC-0810. The prediction of human pharmacokinetics (PK) was verified using GDC-0810 phase I clinical PK data. The Simcyp transporter DDI model was verified using known OATP1B1/1B3 inhibitors (rifampicin, cyclosporine and gemfibrozil) and substrate (pravastatin), prior to using the model to predict GDC-0810 tDDI. The effect of GDC-0810 on pravastatin PK was then predicted based on the proposed clinical scenarios. Sensitivity analysis was conducted on the parameters with uncertainty. The developed PBPK model described the PK profile of GDC-0810 reasonably well. In the tDDI verification, the model reasonably predicted pravastatin tDDI caused by rifampicin and gemfibrozil OATP1B1/3 inhibition but under-predicted tDDI caused by cyclosporine. The effect of GDC-0810 on pravastatin PK was predicted to be low to moderate (pravastatin Cmax ratios 1.01-2.05 and AUC ratio 1.04-2.23). The observed tDDI (Cmax ratio 1.20 and AUC ratio 1.41) was within the range of the predicted values. This work demonstrates an approach using a PBPK model to prospectively assess tDDI caused by a new chemical entity as an OATP1B1/3 uptake transporter inhibitor to assess clinical risk and to support development strategy.",
+    "authors": [
+      "Chen Yuan",
+      "Zhu Rui",
+      "Ma Fang",
+      "Mao Jialin",
+      "Chen Eugene C",
+      "Choo Edna F",
+      "Sahasranaman Srikumar",
+      "Liu Lichuan"
+    ],
+    "year": "2018",
+    "journal": "Biopharmaceutics & drug disposition"
+  },
+  {
+    "pmid": "30597998",
+    "title": "Basic Study of Drug-Drug Interaction between Memantine and the Traditional Japanese Kampo Medicine Yokukansan.",
+    "abstract": "Several basic pharmacokinetic and pharmacological studies were conducted as part of a group of studies to clarify the drug-drug interaction (DDI) between memantine (MEM), a drug used to treat Alzheimer's disease, and yokukansan (YKS), a traditional Japanese Kampo medicine used to treat behavioral and psychological symptoms of dementia. The pharmacokinetic studies showed that there were no statistically significant differences in MEM concentrations in the plasma, brain, and urine between mice treated with MEM alone and with MEM plus YKS. Regarding candidate active ingredients of YKS, there were also no statistically significant differences in concentrations of geissoschizine methyl ether in the plasma and brain, urine, glycyrrhetinic acid in the plasma, and isoliquiritigenin in the urine, in mice treated with YKS alone or with MEM plus YKS. The pharmacological studies showed that isoliquiritigenin, which has an N-methyl-d-aspartic acid (NMDA) receptor antagonistic effect, did not affect the inhibitory effect of MEM on NMDA-induced intracellular Ca2+ influx in primary cultured rat cortical neurons. Moreover, YKS did not affect either the ameliorative effects of MEM on NMDA-induced learning and memory impairment, or the MEM-induced decrease in locomotor activities in mice. These results suggest that there is probably no pharmacokinetic or pharmacological interaction between MEM and YKS in mice, but more detailed studies are needed in the future. Our findings provide important information for future studies, to clarify the DDI more regarding the efficacy and safety of combined use of these drugs in a clinical situation.",
+    "authors": [
+      "Matsumoto Takashi",
+      "Sekiguchi Kyoji",
+      "Kawakami Zenji",
+      "Watanabe Junko",
+      "Mizoguchi Kazushige",
+      "Ikarashi Yasushi",
+      "Yamamoto Masahiro"
+    ],
+    "year": "2018",
+    "journal": "Molecules (Basel, Switzerland)"
+  },
+  {
+    "pmid": "24845234",
+    "title": "A pharmacokinetic drug interaction study between nebivolol and paroxetine in healthy volunteers.",
+    "abstract": "WHAT IS KNOWN AND OBJECTIVE: Nebivolol is a highly selective beta-blocker with additional vasodilator properties, widely used in the clinical practice for the treatment of hypertension and heart failure. Paroxetine is a second-generation antidepressant and a potent inhibitor of CYP2D6, the same isoenzyme involved in the metabolism of nebivolol. The objective of this study was to investigate the effect of multiple-dose paroxetine intake on the pharmacokinetics of nebivolol in healthy volunteers and its potential consequences upon nebivolol pharmacodynamics. METHODS: The study included 23 healthy subjects and was designed as an open-label, single-centre, non-randomized, two-period clinical trial. During period 1 (reference), each volunteer received a single dose of 5 mg nebivolol, whereas during period 2 (test), each volunteer received a single dose of 5 mg nebivolol and 20 mg paroxetine, after a pretreatment regimen with paroxetine (20-40 mg/day for 6 days). The pharmacokinetic parameters of nebivolol and its active metabolite were analysed by non-compartmental modelling. The pharmacodynamic parameters (blood pressure and heart rate) were assessed at rest, after each nebivolol intake. RESULTS AND DISCUSSION: Pretreatment with paroxetine increased the mean peak plasma concentrations (Cmax ) for unchanged nebivolol (1·78 ± 1·17 vs. 4·24 ± 1·67 ng/mL) and for its active metabolite (0·58 ± 0·21 vs. 0·79 ± 0·24 ng/mL) compared to nebivolol alone. The time (tmax ) to reach Cmax was 1·37 ± 0·88 (h) and 3·11 ± 1·76 (h) for the parent compound and its active metabolite after nebivolol administered alone and 3·96 ± 1·76 (h), respectively, 7·33 ± 7·84 (h) after pretreatment with paroxetine. Also, the total areas under the curve (AUC0-∞ ) were significantly increased from 17·26 ± 43·06 to 106·20 ± 65·56 h ng/mL for nebivolol unchanged and 13·03 ± 11·29 to 74·56 ± 88·77 h ng/mL for its hydroxylated metabolite, before and after paroxetine intake. All the pharmacokinetic parameters presented statistically significant differences when paroxetine was administered with nebivolol. Nonetheless, statistical analysis did not show a significant difference between the vital signs measured during the two periods. WHAT IS NEW AND CONCLUSION: After pretreatment with paroxetine, the exposure to nebivolol was increased by 6·1-fold for the parent drug and 5·7-fold for the hydroxylated active metabolite. Paroxetine influenced nebivolol pharmacokinetics in healthy volunteers, but it did not have a significant effect on nebivolol pharmacodynamic parameters measured at rest, although the clinical relevance of this drug interaction needs further investigation.",
+    "authors": [
+      "Briciu C",
+      "Neag M",
+      "Muntean D",
+      "Vlase L",
+      "Bocsan C",
+      "Buzoianu A",
+      "Gheldiu A-M",
+      "Achim M",
+      "Popa A"
+    ],
+    "year": "2014",
+    "journal": "Journal of clinical pharmacy and therapeutics"
+  },
+  {
+    "pmid": "41398552",
+    "title": "Low-dose cannabidiol increases plasma concentrations of amitriptyline: A clinical drug-drug interaction study.",
+    "abstract": "AIMS: Cannabidiol (CBD), the main non-intoxicating compound from the cannabis plant, is regularly used by patients with chronic pain who also take analgesics. CBD has previously been shown to inhibit CYP-mediated drug metabolism. This study aimed to characterize the potential pharmacokinetic interaction of CBD with amitriptyline and tramadol, two commonly used analgesics. METHODS: This was an open-label, fixed-sequence, 2-way crossover study in 13 healthy participants. On Day 1, 25 mg amitriptyline and 50 mg tramadol were co-administered orally in a fasted condition, followed by a 7-day washout period. On Day 8, 30 mg CBD was administered orally 1 h prior to amitriptyline and tramadol. Pharmacokinetic sampling was performed for CBD, amitriptyline, tramadol and their respective active metabolites nortriptyline and O-desmethyltramadol for up to 24 h post-dose. The areas under the curve (AUCs) were compared between visits using a mixed effects model. RESULTS: Twelve participants (4M/8F) completed the study; one participant (M) dropped out for personal reasons. CBD significantly increased the AUC0-24h (least square means [LSM] ratio 1.13, 95% CI: 1.01, 1.26, p = 0.033) and the Cmax (LSM ratio 1.17, 95% CI: 1.01, 1.36, p = 0.041) of amitriptyline. CBD did not significantly change the AUC0-24h and Cmax of nortriptyline and tramadol, and the Cmax of O-desmethyltramadol. CONCLUSIONS: A single dose of 30 mg CBD significantly influenced the metabolism of amitriptyline in healthy volunteers. In patients, CBD-induced drug interactions may be more pronounced in chronic dosing and dependent upon prandial status.",
+    "authors": [
+      "Gorbenko Andriy A",
+      "Post Titiaan E",
+      "Strugala Pamela K",
+      "Klaassen Erica S",
+      "Klumpers Linda E",
+      "de Visser Saco J",
+      "Sempio Cristina",
+      "Klawitter Jost",
+      "Heuberger Jules A A C",
+      "Groeneveld Geert J"
+    ],
+    "year": "2026",
+    "journal": "British journal of clinical pharmacology"
+  },
+  {
+    "pmid": "40679917",
+    "title": "Sensitivity of Tepotinib to Inhibitors or Inducers of CYP3A4 and P-Gp: Drug Interaction Studies and Physiologically-Based Pharmacokinetic Analysis.",
+    "abstract": "Tepotinib is a highly selective, potent, mesenchymal-epithelial transition factor (MET) inhibitor, approved for the treatment of non-small cell lung cancer harboring MET exon 14 skipping alterations. This work aimed to investigate the potential for drug-drug interactions with strong inhibitors and inducers of both cytochrome P450 (CYP) 3A4/5 and P-glycoprotein (P-gp) with tepotinib. Two clinical studies were conducted to investigate the effect of the strong CYP3A4/P-gp inhibitor itraconazole (200 mg once daily) (NCT05203822) and the strong CYP3A4/P-gp inducer carbamazepine (titrated to 300 mg twice daily) (NCT05213481) on the pharmacokinetics of single dose tepotinib 500 mg (450 mg active moiety) in healthy participants. An investigational physiologically-based pharmacokinetic model, developed leveraging mass balance data, was used to evaluate the mechanisms underlying these interactions. Itraconazole increased tepotinib area under the curve extrapolated to infinity (AUC0-∞) by 22% (geometric mean ratio [GMR] 122.35%; 90% confidence intervals [CIs] 111.48%, 134.29%), but had no effect on tepotinib Cmax (GMR 101.53%, 90% CI: 94.00%, 109.67%). Carbamazepine decreased tepotinib AUC0-∞ by 35% (GMR 65.15%, 90% CI: 59.80%, 70.88%) and Cmax by 11% (GMR 89.31%, 90% CI: 83.43%, 95.60%). None of these changes were considered to be clinically relevant. Single doses of tepotinib were considered safe and well tolerated in both studies. The observed pharmacokinetic interactions were consistent with a low (~17%) contribution of CYP3A4 to tepotinib metabolism without a relevant role for P-gp mediated biliary secretion. The potential of tepotinib to be a victim of modulators of both CYP3A4 and P-gp at the intended posology is considered low.",
+    "authors": [
+      "Strotmann Rainer",
+      "Lüpfert Christian",
+      "Krebs-Brown Axel",
+      "Ke Alice",
+      "Boedding Matthias",
+      "Heuer Jürgen",
+      "Yeo Karen Rowland",
+      "Benincosa Lisa",
+      "Venkatakrishnan Karthik"
+    ],
+    "year": "2025",
+    "journal": "Clinical and translational science"
+  },
+  {
+    "pmid": "40033714",
+    "title": "Evaluation of Adefovir PBPK Model to Assess Biomarker-Informed OAT1 Drug-Drug Interaction and Effect of Chronic Kidney Disease.",
+    "abstract": "Evaluation of transporter-mediated drug-drug interactions (DDI) with endogenous biomarkers, coupled with physiologically-based pharmacokinetic modeling (PBPK) is envisioned to replace or reduce dedicated DDI clinical trials with clinical probe substrates. The current study developed a PBPK model of adefovir (OAT1 clinical probe) by incorporating experimental measurements of adefovir passive diffusion and OAT1-mediated transport in a mechanistic kidney model for in vitro-in vivo extrapolation of its secretion and renal clearance. The adefovir model was verified with clinical data from nine studies (188 subjects) investigating a range of adefovir intravenous and adefovir-dipivoxil oral doses in White, Japanese, and Chinese populations with healthy renal function. A previously verified probenecid model, incorporating in vivo OAT1/3 inhibitory constant estimated using OAT1/3 endogenous biomarker (4-pyridoxic acid) clinical data, was utilized. The ratio of adefovir maximal plasma concentrations (CmaxR) and area under the curve (AUCR) after mid-to-high single oral doses of probenecid was predicted within the stringent Guest criterion. With the lowest probenecid dose (0.5 g), adefovir AUCR and CmaxR were slightly overpredicted but still within a 1.5-fold error. Application of the adefovir model to patients with severe chronic kidney disease (CKD) accounted for our previously recommended additional 50% decrease in OAT1 activity beyond the decline of glomerular filtration rate. The model successfully predicted 3-fold higher adefovir Cmax and 6-fold higher AUC in patients with severe CKD relative to healthy individuals. This study reinforces the role of PBPK modeling to predict transporter-mediated DDI (coupled with biomarker-informed approach to optimize in vivo inhibitory constant) and the effect of renal impairment on OAT1/3 drugs in lieu of clinical studies.",
+    "authors": [
+      "Tan Shawn Pei Feng",
+      "Wu Huaying",
+      "Rostami-Hodjegan Amin",
+      "Scotcher Daniel",
+      "Galetin Aleksandra"
+    ],
+    "year": "2025",
+    "journal": "CPT: pharmacometrics & systems pharmacology"
+  },
+  {
+    "pmid": "29030176",
+    "title": "Physiologically based pharmacokinetic modeling of disposition and drug-drug interactions for valproic acid and divalproex.",
+    "abstract": "Valproic acid (VPA) is an older first-line antiepileptic drug with a complex pharmacokinetic (PK) profile, currently under investigation for several novel neurologic and non-neurologic indications. Our study objective was to design and validate a mechanistic model of VPA disposition in adults and children; and evaluate its predictive performance of drug-drug interactions (DDIs). This study expands upon existing physiologically based pharmacokinetic (PBPK) models for VPA by incorporating UGT enzyme kinetics and an advanced dissolution, absorption, and metabolism (ADAM) model for extended-release (ER) formulation. PBPK models for VPA IR and ER formulations were constructed using Simcyp Simulator (Version 15). First-order absorption was used for the immediate-release (IR) formulation and the ADAM model, including a controlled-release profile, for ER. Data from twenty-one published clinical studies were used to assess model performance. The model accurately predicted the concentration-time profiles of IR formulation for single-dose and steady-state doses ranging from 200mg to 1000mg. Similarly profiles were also simulated for ER formulation after a single-dose and steady-state doses of 500mg and 1000mg, respectively. In addition, simulated PK profiles agreed well with the observed data from studies in which VPA ER formulation was given to pediatric patients and VPA IR formulation to adult patients with cirrhosis. The model was further validated with individual adult data from a Phase I clinical trial consisting of eight cohorts after IV infusion of VPA with doses ranging from 15 to 150mg/kg. Co-administrations of VPA as an enzyme-inhibitor with victim drug phenytoin or lorazepam, as well as a substrate with enzyme inducer carbamazepine or phenobarbital, were simulated with the model to evaluate drug-drug interaction. The simulated serum concentration-time profiles were within the 5th and 95th percentiles, and the majority of the predicted area-under-the-curve (AUC) and peak plasma concentration (Cmax) values were within 25% of the reported average values. The comprehensive VPA PBPK model defined by this study may be used to support dosage regimen optimization to improve the safety and efficacy profile of this agent under different scenarios.",
+    "authors": [
+      "Conner Todd M",
+      "Nikolian Vahagn C",
+      "Georgoff Patrick E",
+      "Pai Manjunath P",
+      "Alam Hasan B",
+      "Sun Duxin",
+      "Reed Ronald C",
+      "Zhang Tao"
+    ],
+    "year": "2018",
+    "journal": "European journal of pharmaceutical sciences : official journal of the European Federation for Pharmaceutical Sciences"
+  },
+  {
+    "pmid": "34488896",
+    "title": "Pharmacokinetic herb-drug interactions between Aidi injection and doxorubicin in rats with diethylnitrosamine-induced hepatocellular carcinoma.",
+    "abstract": "BACKGROUND: Aidi Injection (ADI), a Chinese herbal preparation with anti-cancer activity, is used for the treatment of hepatocellular carcinoma (HCC). Several clinical studies have shown that co-administration of ADI with doxorubicin (DOX) is associated with reduced toxicity of chemotherapy, enhanced clinical efficacy and improved quality of life for patients. However, limited information is available about the herb-drug interactions between ADI and DOX. The study aimed to investigate the pharmacokinetic mechanism of herb-drug interactions between ADI and DOX in a rat model of HCC. METHODS: Experimental HCC was induced in rats by oral administration of diethylnitrosamine. The HCC rats were pretreated with ADI (10 mL/kg, intraperitoneal injection) for 14 consecutive days prior to administration of DOX (7 mg/kg, intravenous injection) to investigate pharmacokinetic interactions. Plasma concentrations of DOX and its major metabolite, doxorubicinol (DOXol), were determined using ultra-performance liquid chromatography-tandem mass spectrometry (UPLC-MS/MS). RESULTS: Preadministration of ADI significantly altered the pharmacokinetics of DOX in HCC rats, leading to increased plasma concentrations of both DOX and DOXol. The area under the plasma drug concentration-time curve (AUCs) of DOX and DOXol in rats pretreated with ADI were 3.79-fold and 2.92-fold higher, respectively, than those in control rats that did not receive ADI. CONCLUSIONS: Increased levels of DOX and DOXol were found in the plasma of HCC rats pretreated with ADI.",
+    "authors": [
+      "Lu Yuan",
+      "Pan Jie",
+      "Zhu Xiaoqing",
+      "Zhang Shuai",
+      "Liu Chunhua",
+      "Sun Jia",
+      "Li Yueting",
+      "Chen Siying",
+      "Huang Jing",
+      "Cao Chuang",
+      "Wang Yonglin",
+      "Li Yongjun",
+      "Liu Ting"
+    ],
+    "year": "2021",
+    "journal": "BMC pharmacology & toxicology"
+  },
+  {
+    "pmid": "11736869",
+    "title": "Effect of alosetron on theophylline pharmacokinetics.",
+    "abstract": "AIMS: To examine the potential for alosetron to alter the pharmacokinetics of theophylline by inhibiting its metabolism, as suggested by in vitro and in vivo effects on CYP1A2 activity. METHODS: Ten healthy female volunteers received theophylline 200 mg twice daily alone for 8 days and with alosetron 1 mg twice daily for 15 days in this randomized, placebo-controlled, two-way-crossover study. RESULTS: Alosetron had no significant effect on theophylline plasma concentrations (Cmax approximately 9 microg ml(-1), AUC approximately 90 microg ml(-1) h) or oral formation clearance of three major metabolites produced via CYP1A2: 3-methylxanthine, 1-methylurate and 1,3-dimethylurate (5, 7 and 16 ml min(-1), respectively). Concomitant administration of alosetron and theophylline was well tolerated. CONCLUSIONS: The absence of a clinical drug interaction involving inhibition of theophylline metabolism by alosetron was not predicted by in vitro and in vivo metabolic probe data.",
+    "authors": [
+      "Koch K M",
+      "Ricci B M",
+      "Hedayetullah N S",
+      "Jewell D",
+      "Kersey K E"
+    ],
+    "year": "2001",
+    "journal": "British journal of clinical pharmacology"
+  },
+  {
+    "pmid": "29503427",
+    "title": "[Dynamic Simulation of Drug-Drug Interactions by Using Multi-level Physiological Modeling & Simulation Platforms].",
+    "abstract": "　Drug-drug interactions mediated by drug metabolizing enzymes are serious, clinically relevant issues. Prediction and evaluation of the probability and consequences of drug-drug interactions are essential during drug development, as well as during clinical application. A physiologically based pharmacokinetic (PBPK) model, which considers the hierarchical structure of the physiological behavior of drugs, has been demonstrated to be effective for in vitro-in vivo extrapolation of the phenomena of drug-drug interaction (DDI). While commercial software that implements PBPK models is now available, increasing attention has been given to developing similar models on open platforms for systems biology modeling and simulation. Open simulation model development environments, including CellDesigner and PhysioDesigner, have been developed and improved with the advent of research fields associated with systems biology or synthetic biology. Model developers implement their models using the platform, then publish the models in public databases. Through sharing and reuse among researchers, these models can become more generalized and sophisticated. This review article aims to discuss the attractive features and potential of these open platforms, and to evaluate the prediction effectiveness for enzyme induction-based drug-drug interactions via integrating the PBPK models of inducers and substrates and the dynamic models of enzyme induction kinetics.",
+    "authors": [
+      "Yamashita Fumiyoshi"
+    ],
+    "year": "2018",
+    "journal": "Yakugaku zasshi : Journal of the Pharmaceutical Society of Japan"
+  },
+  {
+    "pmid": "31256150",
+    "title": "Phenobarbital, Midazolam Pharmacokinetics, Effectiveness, and Drug-Drug Interaction in Asphyxiated Neonates Undergoing Therapeutic Hypothermia.",
+    "abstract": "BACKGROUND: Phenobarbital and midazolam are commonly used drugs in (near-)term neonates treated with therapeutic hypothermia for hypoxic-ischaemic encephalopathy, for sedation, and/or as anti-epileptic drug. Phenobarbital is an inducer of cytochrome P450 (CYP) 3A, while midazolam is a CYP3A substrate. Therefore, co-treatment with phenobarbital might impact midazolam clearance. OBJECTIVES: To assess pharmacokinetics and clinical anti-epileptic effectiveness of phenobarbital and midazolam in asphyxiated neonates and to develop dosing guidelines. METHODS: Data were collected in the prospective multicentre PharmaCool study. In the present study, neonates treated with therapeutic hypothermia and receiving midazolam and/or phenobarbital were included. Plasma concentrations of phenobarbital and midazolam including its metabolites were determined in blood samples drawn on days 2-5 after birth. Pharmacokinetic analyses were performed using non-linear mixed effects modelling; clinical effectiveness was defined as no use of additional anti-epileptic drugs. RESULTS: Data were available from 113 (phenobarbital) and 118 (midazolam) neonates; 68 were treated with both medications. Only clearance of 1-hydroxy midazolam was influenced by hypothermia. Phenobarbital co-administration increased midazolam clearance by a factor 2.3 (95% CI 1.9-2.9, p < 0.05). Anticonvulsant effectiveness was 65.5% for phenobarbital and 37.1% for add-on midazolam. CONCLUSIONS: Therapeutic hypothermia does not influence clearance of phenobarbital or midazolam in (near-)term neonates with hypoxic-ischaemic encephalopathy. A phenobarbital dose of 30 mg/kg is advised to reach therapeutic concentrations. Phenobarbital co-administration significantly increased midazolam clearance. Should phenobarbital be substituted by non-CYP3A inducers as first-line anticonvulsant, a 50% lower midazolam maintenance dose might be appropriate to avoid excessive exposure during the first days after birth.",
+    "authors": [
+      "Favié Laurent M A",
+      "Groenendaal Floris",
+      "van den Broek Marcel P H",
+      "Rademaker Carin M A",
+      "de Haan Timo R",
+      "van Straaten Henrica L M",
+      "Dijk Peter H",
+      "van Heijst Arno",
+      "Simons Sinno H P",
+      "Dijkman Koen P",
+      "Rijken Monique",
+      "Zonnenberg Inge A",
+      "Cools Filip",
+      "Zecic Alexandra",
+      "van der Lee Johanna H",
+      "Nuytemans Debbie H G M",
+      "van Bel Frank",
+      "Egberts Toine C G",
+      "Huitema Alwin D R"
+    ],
+    "year": "2019",
+    "journal": "Neonatology"
+  },
+  {
+    "pmid": "9864078",
+    "title": "Gabapentin does not alter single-dose lithium pharmacokinetics.",
+    "abstract": "Lithium (Li) and gabapentin are both exclusively eliminated by renal excretion. When used in combination, a competitive drug-drug interaction could possibly alter Li renal excretion with important clinical implications considering the rather narrow therapeutic index of Li. This study examined the single-dose pharmacokinetic profiles of Li in 13 patients receiving placebo and then steady-state gabapentin (mean daily dose: 3,646.15 mg). During both phases, a single 600-mg dose of Li was orally administered with serial Li levels obtained at time zero and at 0.25, 0.5, 1, 2, 3, 4, 8, 12, 24, 48, and 72 hours. The pharmacokinetic parameters assessed were the following: area under the concentration time curve (AUC) for Li, maximal concentration of Li (Li Cmax), and time to reach peak Li concentration (Li Tmax). For patients receiving gabapentin, the mean Li AUC at 72 hours was 9.91+/-3.54 mmol x hr/mL and did not differ significantly from the mean Li AUC of 10.19+/-2.89 mmol x hr/mL for patients receiving placebo. The mean Li Cmax was 0.69+/-0.13 mmol/L for gabapentin patients and did not differ from the mean Li Cmax of 0.72+/-0.15 mmol/L for placebo patients. The mean serum Li Tmax was 1.38+/-0.62 hours for gabapentin patients and did not differ significantly from the mean serum Li Tmax of 1.5+/-0.91 hours for placebo patients. These data indicate that gabapentin treatment at this high therapeutic dose does not cause clinically significant alterations in short-term Li pharmacokinetics in patients with normal renal function. These preliminary data warrant further controlled study in a larger, more heterogenous patient sample and a longer duration of assessment, but they do suggest that these two medications may be administered in combination for the management of bipolar disorder.",
+    "authors": [
+      "Frye M A",
+      "Kimbrell T A",
+      "Dunn R T",
+      "Piscitelli S",
+      "Grothe D",
+      "Vanderham E",
+      "Corá-Locatelli G",
+      "Post R M",
+      "Ketter T A"
+    ],
+    "year": "1998",
+    "journal": "Journal of clinical psychopharmacology"
+  },
+  {
+    "pmid": "34254323",
+    "title": "Lopinavir and tenofovir interaction observed in non-pregnant adults altered during pregnancy.",
+    "abstract": "WHAT IS KNOWN AND OBJECTIVE: Tenofovir exposure is increased in non-pregnant adults when tenofovir disoproxil fumarate is coadministered with lopinavir/ritonavir. In pregnant women, tenofovir exposure is decreased. Our objective is to describe the effect of lopinavir/ritonavir on tenofovir pharmacokinetics during pregnancy. METHODS: Data were collected through the International Maternal Pediatric and Adolescent AIDS Clinical Trials (IMPAACT) Network P1026s protocol. This was a nonrandomized, open-label, parallel-group and multicentre phase-IV prospective study in pregnant women with HIV. Intensive steady-state 24-h pharmacokinetic profiles were collected during the third trimester of pregnancy and postpartum. Tenofovir was measured in plasma using validated liquid chromatography-mass spectrometry method (quantification limit: 10 ng/ml). Statistical tests compared paired and between group pharmacokinetic data. RESULTS AND DISCUSSION: In women not receiving lopinavir/ritonavir (n = 28), tenofovir AUC0-24 was 27% lower (2.2 mcg·h/ml vs 2.8 mcg·h/ml, p = 0.002) and oral clearance was 27% higher (61 L/h vs 48 L/h, p = 0.001) during the third trimester compared to paired postpartum data. In women receiving lopinavir/ritonavir (n = 10), tenofovir AUC0-24 and oral clearance were not different antepartum compared to postpartum. Women with and women without concomitant lopinavir/ritonavir displayed no significant differences in postpartum tenofovir pharmacokinetics. WHAT IS NEW AND CONCLUSION: Tenofovir exposure during the third trimester was reduced compared to postpartum in pregnant women not receiving lopinavir/ritonavir, but not in pregnant women also receiving lopinavir/ritonavir. Our findings suggest that pregnancy confounds the expected decrease in tenofovir exposure with concomitant lopinavir/ritonavir in non-pregnant adults. These findings illustrate the need for drug-drug interaction studies in pregnant women as drug disposition differs significantly in pregnant women compared to non-pregnant adults.",
+    "authors": [
+      "Mulligan Nikki",
+      "Salama Engie",
+      "Momper Jeremiah D",
+      "Capparelli Edmund V",
+      "Stek Alice",
+      "Chakhtoura Nahida",
+      "Mirochnick Mark",
+      "Best Brookie M"
+    ],
+    "year": "2021",
+    "journal": "Journal of clinical pharmacy and therapeutics"
+  },
+  {
+    "pmid": "27086359",
+    "title": "Clinical Drug-Drug Pharmacokinetic Interaction Potential of Sucralfate with Other Drugs: Review and Perspectives.",
+    "abstract": "Sucralfate, a complex of aluminium hydroxide with sulfated sucrose, forms a strong gastrointestinal tract (GIT) mucosal barrier with excellent anti-ulcer property. Because sucralfate does not undergo any significant oral absorption, sucralfate resides in the GIT for a considerable length of time. The unabsorbed sucralfate may alter the pharmacokinetics of the oral drugs by impeding its absorption and reducing the oral bioavailability. Because of the increased use of sucralfate, it was important to provide a reappraisal of the published clinical drug-drug interaction studies of sucralfate with scores of drugs. This review covers several category of drugs such as non-steroidal anti-inflammatory drugs, fluoroquinolones, histamine H2-receptor blockers, macrolides, anti-fungals, anti-diabetics, salicylic acid derivatives, steroidal anti-inflammatory drugs and provides pharmacokinetic data summary along with study design, objectives and key remarks. While the loss of oral bioavailability was significant for the fluoroquinolone class, it generally varied for other classes of drugs, suggesting that impact of the co-administration of sucralfate is manageable in clinical situations. Given the technology advancement in formulation development, it may be in order feasible to develop appropriate formulation strategies to either avoid or minimize the absorption-related issues when co-administered with sucralfate. It is recommended that consideration of both in vitro and preclinical studies may be in order to gauge the level of interaction of a drug with sucralfate. Such data may aid in the development of appropriate strategies to navigate the co-administration of sucralfate with other drugs in this age of polypharmacy.",
+    "authors": [
+      "Sulochana Suresh P",
+      "Syed Muzeeb",
+      "Chandrasekar Devaraj V",
+      "Mullangi Ramesh",
+      "Srinivas Nuggehally R"
+    ],
+    "year": "2016",
+    "journal": "European journal of drug metabolism and pharmacokinetics"
+  },
+  {
+    "pmid": "39943692",
+    "title": "The Pharmacokinetic Interaction Between Metformin and the Natural Product Goldenseal Is Metformin Dose-Dependent: A Three-Arm Crossover Study in Adults With Type 2 Diabetes.",
+    "abstract": "Pharmacokinetic drug interactions can lead to unexpected changes in plasma concentrations of the object drug, potentially increasing the risk for adverse effects and/or decreasing therapeutic efficacy. The botanical product goldenseal was previously shown to decrease metformin systemic exposure in healthy adults. This three-arm, open-label, crossover clinical study assessed the pharmacokinetic goldenseal-metformin interaction in adults with type 2 diabetes stabilized on therapeutic doses of metformin (500-2550 mg daily). The aggregate pharmacokinetic data indicated no clinically meaningful interaction as determined by the metformin area under the plasma concentration-time curve (AUC) geometric mean ratio [90% confidence interval] of 0.93 [0.86-1.01] laying within the predefined no-effect range (0.80-1.25). However, metformin AUC decreased by ~20%, 14%, and 0% after goldenseal coadministration at low (500-750 mg), moderate (1000-1500 mg), and high (2000-2550 mg) metformin doses, respectively; renal clearance and half-life remained unchanged throughout. The exploratory pharmacodynamic endpoint, HbA1c, decreased on average from 6.8% to 6.5%, regardless of the effects of goldenseal on metformin pharmacokinetics. The decreasing effect of goldenseal on metformin systemic exposure with increasing metformin dose, coupled with no changes in renal excretion and elimination half-life, indicated that both the pharmacokinetic goldenseal-metformin interaction and the nonlinear absorption of metformin are governed by saturable, intestinal transport mechanism(s). The disconnect between changes in metformin systemic exposure and therapeutic effects emphasizes the need to evaluate clinical biomarkers to comprehensively assess drug interaction risks, particularly those involving natural products. Healthcare providers may consider cautioning patients about supplementing metformin pharmacotherapy with goldenseal to avoid risks for undesired changes in glycemic control. Trial Registration: ClinicalTrials.gov identifier: NCT05081583.",
+    "authors": [
+      "Nguyen James T",
+      "Arian Christopher M",
+      "Tanna Rakshit S",
+      "Cherel Maxey G",
+      "Layton Matthew E",
+      "White John R",
+      "Thummel Kenneth E",
+      "Paine Mary F"
+    ],
+    "year": "2025",
+    "journal": "Clinical and translational science"
+  },
+  {
+    "pmid": "40607942",
+    "title": "Methoxyethyl Etomidate Hydrochloride (ET-26): A Phase I Clinical Trial Assessing Drug-Drug Interactions in Healthy Subjects.",
+    "abstract": "Methoxyethyl etomidate hydrochloride (ET-26) is a novel intravenous general anesthetic designed to address the clinical limitations of etomidate. This Phase I clinical trial assessed the pharmacokinetics, pharmacodynamics, drug-drug interaction (DDI) potential, and safety of ET-26 in 68 healthy subjects across three sequences, evaluating interactions with rifampin (CYP2C19/3A4 inducer), fluconazole (CYP2C19/3A4 inhibitor), and omeprazole/midazolam. ET-26 pharmacokinetic analyses showed that compared with administration of ET-26 alone, co-administration of rifampin resulted in a 10% decrease in the geometric mean ratio (GMR) of the AUC0-∞ for ET-26 (GMR 90.0%, 90% CI 85.4%-94.8%), while co-administration fluconazole increased the AUC0-∞ by 18.5% (GMR 118.5%, 90% CI 111.4%-126.2%). ET-26 slightly increased the AUC0-∞ by 18.5% for omeprazole (GMR 118.5%, 90% CI 111.4%-126.1%) and 11.1% for midazolam (GMR 111.1%, 90% CI 104.9%-117.8%). The 90% CI for key parameters largely fell within no-effect boundaries, indicating no clinically significant DDIs. Pharmacodynamic assessments showed consistent sedation profiles across sequences, with mild additive effects with midazolam. Safety evaluations identified treatment-emergent adverse events such as injection site pain and myoclonus, more frequent with fluconazole. No serious adverse events were observed. These findings suggest ET-26 exhibits a favorable safety and pharmacokinetic profile with no significant DDIs observed in clinical, supporting its potential as a safer alternative to etomidate for general anesthesia.",
+    "authors": [
+      "Yang Fan",
+      "Ye Pan-Pan",
+      "Lv Wen-Shuo",
+      "Li Li-Ze",
+      "Zhao Bao-Zhong",
+      "van denAnker John",
+      "Yang Xin-Mei",
+      "Song Lin-Lin",
+      "Yang Xiao-Ran",
+      "Zheng Yi",
+      "Ke Bo-Wen",
+      "Zhao Wei"
+    ],
+    "year": "2025",
+    "journal": "Journal of clinical pharmacology"
+  },
+  {
+    "pmid": "39676284",
+    "title": "Physiologically based pharmacokinetic modeling and simulation of topiramate in populations with renal and hepatic impairment and considerations for drug-drug interactions.",
+    "abstract": "Topiramate (TPM) is a broad-spectrum antiepileptic drug (AED) commonly prescribed for approved and off-label uses. Routine monitoring is suggested for clinical usage of TPM in special population due to its broad side effect profile. Therefore, it is crucial to further explore its pharmacokinetic characteristics. Physio-chemical properties of TPM were initially determined from online database and further optimized while establishing the PBPK model for healthy adults using the PK-Sim software. The model was then extrapolated to patients with renal impairment and patients who were hepatically impaired. A drug-drug interaction (DDI) model was also built to simulate plasma TPM concentrations while concomitantly used with carbamazepine (CBZ). The goodness-of-fit method and average fold error (AFE) method were used to compare the differences between predicted and observed values to assess the accuracy of the PBPK model. Almost all of the predicted concentration fell within twofold error range of corresponding observed concentrations. The AFE ratio of predicted to observed values of Cmax and AUC0-inf was all within 0.5 and 2. It is recommended that the doses be reduced to 70%, 50%, and 40% of the healthy adult dose for the chronic kidney disease (CKD) stage 3, stage 4, and stage 5 patients, respectively, and reduced to ~70%, and 35% for the Child-Pugh-B, and Child-Pugh C scored patient with hepatic impairment, respectively. If TPM is co-administered with CBZ, increasing TPM doses to 150%-175% of the monotherapy dose is recommended according to model simulation.",
+    "authors": [
+      "Chen Shuqing",
+      "Shen Chaozhuang",
+      "Tian Yuchen",
+      "Peng Yuhe",
+      "Hu Jing",
+      "Xie Haitang",
+      "Yin Ping"
+    ],
+    "year": "2025",
+    "journal": "CPT: pharmacometrics & systems pharmacology"
+  },
+  {
+    "pmid": "27128216",
+    "title": "Pharmacokinetic drug-drug interaction study of ranolazine and metformin in subjects with type 2 diabetes mellitus.",
+    "abstract": "Ranolazine and metformin may be frequently co-administered in subjects with chronic angina and co-morbid type 2 diabetes mellitus (T2DM). The potential for a drug-drug interaction was explored in two phase 1 clinical studies in subjects with T2DM to evaluate the pharmacokinetics and safety of metformin 1000 mg BID when administered with ranolazine 1000 mg BID (Study 1, N = 28) or ranolazine 500 mg BID (Study 2, N = 25) as compared to metformin alone. Co-administration of ranolazine 1000 mg BID with metformin 1000 mg BID resulted in 1.53- and 1.79-fold increases in steady-state metformin Cmax and AUCtau , respectively; co-administration of ranolazine 500 mg BID with metformin 1000 mg BID resulted in 1.22- and 1.37-fold increases in steady-state metformin Cmax and AUCtau , respectively. Co-administration of ranolazine and metformin was well tolerated in these T2DM subjects, with no serious adverse events or drug-related adverse events leading to discontinuation. The most common adverse events were nausea, diarrhea, and dizziness. These findings are consistent with a dose-related interaction between ranolazine and metformin, and suggest that a dose adjustment of metformin may not be required with ranolazine 500 mg BID; whereas, the metformin dose should not exceed 1700 mg of total daily dose when using ranolazine 1000 mg BID.",
+    "authors": [
+      "Zack Julia",
+      "Berg Jolene",
+      "Juan Axel",
+      "Pannacciulli Nicola",
+      "Allard Martine",
+      "Gottwald Mildred",
+      "Zhang Heather",
+      "Shao Yongwu",
+      "Ben-Yehuda Ori",
+      "Jochelson Phil"
+    ],
+    "year": "2015",
+    "journal": "Clinical pharmacology in drug development"
+  }
+]

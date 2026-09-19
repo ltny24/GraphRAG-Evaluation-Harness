@@ -1,0 +1,15 @@
+Loaded 50 abstracts
+Total chunks : 3464
+Avg length   : 60 chars
+Min / Max    : 1 / 512
+Saved to     : data\processed\chunks.json
+
+--- Sample chunk 0 ---
+ID    : 38632186_chunk0
+Text  : Title: Pharmacokinetic interaction between regorafenib and atorvastatin in rats.
+
+Abstract: BACKGROUND: Regorafenib is used in the treatment of colorectal cancer and hepatocellular carcinoma. Due to the co-morbidity of hyperlipidemia in these conditions, statins, including atorvastatin, are used as 
+
+--- Sample chunk 1 ---
+ID    : 38632186_chunk1
+Text  : s. Both regorafenib and atorvastatin are metabolized by CYP3A4. In addition, atorvastatin is a P-gp and BCRP substrate, whereas regorafenib and its active metabolites M-2 and M-5 are inhibitors of these transporters. Hence, the concomitant use of both drugs may increase the risk of a clinically sign
