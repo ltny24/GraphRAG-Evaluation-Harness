@@ -15,3 +15,7 @@ qdrant-client>=1.8.0
 # Evaluation & Metrics (Milestone 3)
 pandas>=2.0.0
 matplotlib>=3.7.0
+
+# Web API (Milestone 4)
+fastapi>=0.100.0
+uvicorn>=0.20.0

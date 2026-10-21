@@ -1,0 +1,146 @@
+[
+    {
+        "id": "sh_01",
+        "type": "single-hop",
+        "question": "What diseases can be treated with regorafenib?",
+        "ground_truth": "Regorafenib is used to treat colorectal cancer and hepatocellular carcinoma.",
+        "required_edges": ["(regorafenib)-[TREATS]->(colorectal cancer)", "(regorafenib)-[TREATS]->(hepatocellular carcinoma)"]
+    },
+    {
+        "id": "sh_02",
+        "type": "single-hop",
+        "question": "Which enzyme metabolizes regorafenib?",
+        "ground_truth": "CYP3A4 metabolizes regorafenib.",
+        "required_edges": ["(CYP3A4)-[METABOLIZES]->(regorafenib)"]
+    },
+    {
+        "id": "sh_03",
+        "type": "single-hop",
+        "question": "Does regorafenib interact with atorvastatin?",
+        "ground_truth": "Yes, regorafenib interacts with atorvastatin. Both are metabolized by CYP3A4.",
+        "required_edges": ["(regorafenib)-[INTERACTS_WITH]->(atorvastatin)"]
+    },
+    {
+        "id": "sh_04",
+        "type": "single-hop",
+        "question": "What drug class does atorvastatin belong to?",
+        "ground_truth": "Atorvastatin is a statin, used to treat hyperlipidemia.",
+        "required_edges": ["(statins)-[TREATS]->(hyperlipidemia)"]
+    },
+    {
+        "id": "sh_05",
+        "type": "single-hop",
+        "question": "Which enzyme is responsible for metabolizing atorvastatin?",
+        "ground_truth": "CYP3A4 metabolizes atorvastatin.",
+        "required_edges": ["(CYP3A4)-[METABOLIZES]->(atorvastatin)"]
+    },
+    {
+        "id": "mh_01",
+        "type": "multi-hop",
+        "question": "What enzyme metabolizes regorafenib, and what diseases does that drug treat?",
+        "ground_truth": "CYP3A4 metabolizes regorafenib. Regorafenib treats colorectal cancer and hepatocellular carcinoma.",
+        "required_edges": ["(CYP3A4)-[METABOLIZES]->(regorafenib)", "(regorafenib)-[TREATS]->(colorectal cancer)"]
+    },
+    {
+        "id": "mh_02",
+        "type": "multi-hop",
+        "question": "If a patient has hepatocellular carcinoma and is taking atorvastatin, what are the risks of prescribing regorafenib?",
+        "ground_truth": "Regorafenib treats hepatocellular carcinoma but interacts with atorvastatin because both are metabolized by CYP3A4. Co-administration may alter plasma levels and increase toxicity.",
+        "required_edges": ["(regorafenib)-[TREATS]->(hepatocellular carcinoma)", "(regorafenib)-[INTERACTS_WITH]->(atorvastatin)", "(CYP3A4)-[METABOLIZES]->(regorafenib)"]
+    },
+    {
+        "id": "mh_03",
+        "type": "multi-hop",
+        "question": "Which drugs are both metabolized by the same enzyme and have a known interaction with each other?",
+        "ground_truth": "Regorafenib and atorvastatin are both metabolized by CYP3A4 and have a known pharmacokinetic interaction.",
+        "required_edges": ["(CYP3A4)-[METABOLIZES]->(regorafenib)", "(CYP3A4)-[METABOLIZES]->(atorvastatin)", "(regorafenib)-[INTERACTS_WITH]->(atorvastatin)"]
+    },
+    {
+        "id": "mh_04",
+        "type": "multi-hop",
+        "question": "A patient with colorectal cancer and hyperlipidemia needs treatment. What potential drug interaction should the physician be aware of?",
+        "ground_truth": "The physician should be aware that regorafenib (for colorectal cancer) and statins like atorvastatin (for hyperlipidemia) interact because both are metabolized by CYP3A4.",
+        "required_edges": ["(regorafenib)-[TREATS]->(colorectal cancer)", "(statins)-[TREATS]->(hyperlipidemia)", "(regorafenib)-[INTERACTS_WITH]->(atorvastatin)"]
+    },
+    {
+        "id": "mh_05",
+        "type": "multi-hop",
+        "question": "What is the shared metabolic pathway between regorafenib and atorvastatin, and why is this clinically significant?",
+        "ground_truth": "Both regorafenib and atorvastatin are metabolized by CYP3A4. This shared pathway means co-administration can lead to pharmacokinetic interactions, potentially altering drug plasma concentrations.",
+        "required_edges": ["(CYP3A4)-[METABOLIZES]->(regorafenib)", "(CYP3A4)-[METABOLIZES]->(atorvastatin)"]
+    },
+    {
+        "id": "gl_01",
+        "type": "global",
+        "question": "Summarize all known drug interactions and metabolic pathways described in the dataset.",
+        "ground_truth": "The dataset describes regorafenib and atorvastatin, both metabolized by CYP3A4. Regorafenib treats colorectal cancer and hepatocellular carcinoma. Atorvastatin is a statin for hyperlipidemia. They have a known pharmacokinetic interaction due to shared CYP3A4 metabolism.",
+        "required_edges": []
+    },
+    {
+        "id": "gl_02",
+        "type": "global",
+        "question": "What role does CYP3A4 play in the pharmacokinetics of the drugs in this dataset?",
+        "ground_truth": "CYP3A4 is the primary metabolizing enzyme for both regorafenib and atorvastatin. This shared metabolic pathway is the basis for their pharmacokinetic interaction.",
+        "required_edges": ["(CYP3A4)-[METABOLIZES]->(regorafenib)", "(CYP3A4)-[METABOLIZES]->(atorvastatin)"]
+    },
+    {
+        "id": "gl_03",
+        "type": "global",
+        "question": "What are the key findings from the pharmacokinetic interaction study between regorafenib and atorvastatin?",
+        "ground_truth": "The study found that co-administration of regorafenib and atorvastatin in rats altered the Cmax and AUC of both drugs and their metabolites, indicating a significant pharmacokinetic interaction mediated by CYP3A4.",
+        "required_edges": []
+    },
+    {
+        "id": "ua_01",
+        "type": "unanswerable",
+        "question": "What is the recommended dosage of regorafenib for pediatric patients?",
+        "ground_truth": "UNANSWERABLE - The dataset does not contain information about pediatric dosing of regorafenib.",
+        "required_edges": [],
+        "expected_behavior": "The system should indicate it cannot answer this question from the available data."
+    },
+    {
+        "id": "ua_02",
+        "type": "unanswerable",
+        "question": "Does regorafenib interact with metformin?",
+        "ground_truth": "UNANSWERABLE - The dataset does not contain information about interactions between regorafenib and metformin.",
+        "required_edges": [],
+        "expected_behavior": "The system should indicate it does not have information about this specific interaction."
+    },
+    {
+        "id": "ua_03",
+        "type": "unanswerable",
+        "question": "What are the side effects of atorvastatin on liver function?",
+        "ground_truth": "UNANSWERABLE - The dataset focuses on pharmacokinetic interactions, not side effect profiles.",
+        "required_edges": [],
+        "expected_behavior": "The system should indicate the data does not cover side effects."
+    },
+    {
+        "id": "ua_04",
+        "type": "unanswerable",
+        "question": "Is regorafenib effective for treating lung cancer?",
+        "ground_truth": "UNANSWERABLE - The dataset only mentions colorectal cancer and hepatocellular carcinoma as indications for regorafenib.",
+        "required_edges": [],
+        "expected_behavior": "The system should not claim regorafenib treats lung cancer."
+    },
+    {
+        "id": "na_01",
+        "type": "noisy",
+        "question": "I heard somewhere that some cancer drug might mess with cholesterol pills through some liver enzyme thing. What's that about?",
+        "ground_truth": "Regorafenib (a cancer drug) interacts with atorvastatin (a cholesterol-lowering statin) because both are metabolized by the liver enzyme CYP3A4.",
+        "required_edges": ["(regorafenib)-[INTERACTS_WITH]->(atorvastatin)", "(CYP3A4)-[METABOLIZES]->(regorafenib)"]
+    },
+    {
+        "id": "na_02",
+        "type": "noisy",
+        "question": "My doctor prescribed regorafenib and atorvastatin. Is this combination safe? Also, what's the weather like?",
+        "ground_truth": "Regorafenib and atorvastatin have a known pharmacokinetic interaction as both are metabolized by CYP3A4. Co-administration requires careful monitoring. The weather question is not answerable from the medical dataset.",
+        "required_edges": ["(regorafenib)-[INTERACTS_WITH]->(atorvastatin)"]
+    },
+    {
+        "id": "na_03",
+        "type": "noisy",
+        "question": "cyp3a4 regorafenib atorvastatin interaction mechanism?",
+        "ground_truth": "CYP3A4 metabolizes both regorafenib and atorvastatin. The interaction mechanism is pharmacokinetic: co-administration can alter the plasma concentrations of both drugs due to competition for the same metabolizing enzyme.",
+        "required_edges": ["(CYP3A4)-[METABOLIZES]->(regorafenib)", "(CYP3A4)-[METABOLIZES]->(atorvastatin)", "(regorafenib)-[INTERACTS_WITH]->(atorvastatin)"]
+    }
+]

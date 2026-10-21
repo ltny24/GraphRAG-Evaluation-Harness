@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GraphRAG Copilot</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar for Context (Evidence) -->
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <i class="fa-solid fa-brain"></i>
+                <h2>AI Reasoning</h2>
+            </div>
+            
+            <div class="context-panel">
+                <h3><i class="fa-solid fa-circle-nodes"></i> Graph Context</h3>
+                <div id="graph-evidence" class="evidence-box">
+                    <p class="placeholder">Awaiting query...</p>
+                </div>
+            </div>
+
+            <div class="context-panel">
+                <h3><i class="fa-solid fa-vector-square"></i> Vector Context</h3>
+                <div id="vector-evidence" class="evidence-box">
+                    <p class="placeholder">Awaiting query...</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Main Chat Area -->
+        <div class="chat-container">
+            <div class="chat-header">
+                <h1>Medical GraphRAG Copilot</h1>
+                <p>Hybrid Search: Vector + Knowledge Graph</p>
+            </div>
+
+            <div class="chat-messages" id="chat-messages">
+                <div class="message ai-message">
+                    <div class="avatar"><i class="fa-solid fa-robot"></i></div>
+                    <div class="bubble">Hello! I am a medical AI powered by a Knowledge Graph. Ask me about drugs, diseases, or interactions.</div>
+                </div>
+            </div>
+
+            <div class="chat-input-area">
+                <div class="input-box">
+                    <input type="text" id="query-input" placeholder="e.g., What does CYP3A4 metabolize?" autocomplete="off" />
+                    <button id="send-btn"><i class="fa-solid fa-paper-plane"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

@@ -22,6 +22,8 @@ data/raw/*.pdf
 data/raw/*.txt
 data/processed/
 data/qdrant_db/
+*.db-shm
+*.db-wal
 *.pkl
 *.bin
 *.pt
